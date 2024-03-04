@@ -1,0 +1,40 @@
+@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, showCorrect: Boolean)(implicit requestHeader: RequestHeader)
+
+@main(s"Question ${question.name}") {
+    <div class="header">
+        <div class="title">Question @question.name</div>
+    </div>
+    @if(form.hasGlobalErrors) {
+    <div class="errors">
+      @form.globalErrors.map { (error: FormError) =>
+        <div>@error.key: @error.message</div>
+      }
+    </div>
+    }
+    @if(question.imageURL.nonEmpty) {
+        <div class="figure"><img src="/assets/images/@{question.imageURL.get}"/></div>
+    }
+    <div class="question">@question.text</div>
+    @if(showCorrect) {
+        <ul class="answers">
+            @for(answer <- question.answers) {
+                <li @if(answer.id == question.correctAnswer) { class="correct" }>@answer.text</li>
+            }
+        </ul>
+        <button class="button" onclick="window.location.href = '/continue';">Continue</button>
+    } else {
+        @helper.form(postUrl) {
+            @helper.CSRF.formField
+            <div class="answers">
+            @for(answer <- question.answers) {
+                <div>
+                    <input type="radio" id="@answer.id" name="answerId" value="@answer.id"/>
+                    <label for="@answer.id">@answer.text</label>
+                </div>
+            }
+            </div>
+            <button class="quit" onclick="window.location.href = '/';">Quit</button>
+            <input type="submit" class="button" value="Submit"/>
+        }
+    }
+}

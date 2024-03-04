@@ -1,0 +1,14 @@
+@(total: Int, correct: Int, score: Double, elapsedTime: String)(implicit requestHeader: RequestHeader)
+
+@main(s"Score") {
+    <div class="header">
+        <div class="title">Score</div>
+    </div>
+    <div class="score">
+        <div>Number of questions: @total</div>
+        <div>Number correct: @correct</div>
+        <div>Score: @score</div>
+        <div>Elapsed time: @elapsedTime</div>
+    </div>
+    <button class="button" onclick="window.location.href = '/start';">Start again.</button>
+}

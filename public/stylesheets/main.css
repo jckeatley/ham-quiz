@@ -1,0 +1,61 @@
+.header {
+    margin-bottom: 4em;
+    text-align: center;
+}
+
+.figure {
+    float: right;
+}
+
+.title {
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
+.question {
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+
+.answers div, .answers li {
+    font-family: monospace;
+    font-size: xx-large;
+    margin-bottom: 1em;
+    padding-left: 2em;
+}
+
+.answers {
+    margin-bottom: 2em;
+}
+
+.button {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.quit {
+    float: right;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.errors div {
+    color: red;
+    padding-left: 2em;
+}
+
+.correct {
+    color: green;
+}
+
+.score div {
+    font-family: monospace;
+    font-size: xx-large;
+    margin-bottom: 1em;
+}
+
+div.score {
+    margin-bottom: 2em;
+}
