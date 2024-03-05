@@ -1,0 +1,24 @@
+@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, current: Int, total: Int, givenAnswer: String)(implicit requestHeader: RequestHeader)
+
+@main(s"Question $current/$total [${question.name}]") {
+    <div class="header">
+        <div class="title">Question @current/@total [@question.name]</div>
+    </div>
+    @if(form.hasGlobalErrors) {
+    <div class="errors">
+      @form.globalErrors.map { (error: FormError) =>
+        <div>@error.key: @error.message</div>
+      }
+    </div>
+    }
+    @if(question.imageURL.nonEmpty) {
+        <div class="figure"><img src="/assets/images/@{question.imageURL.get}"/></div>
+    }
+    <div class="question">@question.text</div>
+    <ul class="answers">
+        @for(answer <- question.answers) {
+            <li @if(answer.id == question.correctAnswer) { class="correct" } else { @if(answer.id == givenAnswer) { class="wrong" } }>@answer.text</li>
+        }
+    </ul>
+    <button class="button" onclick="window.location.href = '/continue';">Continue</button>
+}

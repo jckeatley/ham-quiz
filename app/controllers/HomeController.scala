@@ -2,7 +2,6 @@ package controllers
 
 import scala.annotation.tailrec
 import scala.util.Random
-import java.time.format.DateTimeFormatter
 import java.time.{Duration, Instant}
 
 import javax.inject.*
@@ -25,6 +24,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
 
   var questions: List[Question] = Nil
   var total = 0
+  var current = 0
   var correct = 0
   var startTime: Instant = _
   var stopTime: Instant = _
@@ -45,13 +45,15 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
   def startQuiz: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     questions = generateQuestions
     total = questions.length
+    current = 1
     correct = 0
     startTime = Instant.now()
-    Ok(views.html.question(questions.head, form, postUrl, false))
+    Ok(views.html.question(questions.head, form, postUrl, current, total))
   }
 
   def continue: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     questions = questions.tail
+    current += 1
     if (questions.isEmpty) {
       val score = 100 * correct.toDouble / total
       stopTime = Instant.now()
@@ -59,19 +61,20 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
       val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
       Ok(views.html.score(total, correct, score, elapsedTime))
     } else {
-      Ok(views.html.question(questions.head, form, postUrl, false))
+      Ok(views.html.question(questions.head, form, postUrl, current, total))
     }
   }
 
   def scoreQuestion: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     val errorFunction = { (formWithErrors: Form[Data]) =>
-      Ok(views.html.question(questions.head, form, postUrl, true))
+      Ok(views.html.explanation(questions.head, form, postUrl, current, total, ""))
     }
 
     val successFunction = { (data: Data) =>
       if (data.answerId == questions.head.correctAnswer) {
         // Answer is correct -- iterate to next:
         correct += 1
+        current += 1
         questions = questions.tail
 
         if (questions.isEmpty) {
@@ -81,11 +84,11 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
           val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
           Ok(html.score(total, correct, score, elapsedTime))
         } else {
-          Ok(views.html.question(questions.head, form, postUrl, false))
+          Ok(views.html.question(questions.head, form, postUrl, current, total))
         }
       } else {
         // Answer is wrong -- reshow question with answer:
-        Ok(views.html.question(questions.head, form, postUrl, true))
+        Ok(views.html.explanation(questions.head, form, postUrl, current, total, data.answerId))
       }
     }
 

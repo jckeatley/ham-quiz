@@ -1,8 +1,8 @@
-@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, showCorrect: Boolean)(implicit requestHeader: RequestHeader)
+@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, current: Int, total: Int)(implicit requestHeader: RequestHeader)
 
-@main(s"Question ${question.name}") {
+@main(s"Question $current/$total [${question.name}]") {
     <div class="header">
-        <div class="title">Question @question.name</div>
+        <div class="title">Question @current/@total [@question.name]</div>
     </div>
     @if(form.hasGlobalErrors) {
     <div class="errors">
@@ -15,26 +15,17 @@
         <div class="figure"><img src="/assets/images/@{question.imageURL.get}"/></div>
     }
     <div class="question">@question.text</div>
-    @if(showCorrect) {
-        <ul class="answers">
-            @for(answer <- question.answers) {
-                <li @if(answer.id == question.correctAnswer) { class="correct" }>@answer.text</li>
-            }
-        </ul>
-        <button class="button" onclick="window.location.href = '/continue';">Continue</button>
-    } else {
-        @helper.form(postUrl) {
-            @helper.CSRF.formField
-            <div class="answers">
-            @for(answer <- question.answers) {
-                <div>
-                    <input type="radio" id="@answer.id" name="answerId" value="@answer.id"/>
-                    <label for="@answer.id">@answer.text</label>
-                </div>
-            }
+    @helper.form(postUrl) {
+        @helper.CSRF.formField
+        <div class="answers">
+        @for(answer <- question.answers) {
+            <div>
+                <input type="radio" id="@answer.id" name="answerId" value="@answer.id"/>
+                <label for="@answer.id">@answer.text</label>
             </div>
-            <button class="quit" onclick="window.location.href = '/';">Quit</button>
-            <input type="submit" class="button" value="Submit"/>
         }
+        </div>
+        <button class="quit" onclick="window.location.href = '/';">Quit</button>
+        <input type="submit" class="button" value="Submit"/>
     }
 }
