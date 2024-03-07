@@ -1,4 +1,4 @@
-@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, current: Int, total: Int)(implicit requestHeader: RequestHeader)
+@(question: Question, form: Form[QuestionForm.Data], current: Int, total: Int)(implicit requestHeader: RequestHeader)
 
 @main(s"Question $current/$total [${question.name}]") {
     <div class="header">
@@ -15,7 +15,7 @@
         <div class="figure"><img src="/assets/images/@{question.imageURL.get}"/></div>
     }
     <div class="question">@question.text</div>
-    @helper.form(postUrl) {
+    @helper.form(action = routes.HomeController.scoreQuestion()) {
         @helper.CSRF.formField
         <div class="answers">
         @for(answer <- question.answers) {

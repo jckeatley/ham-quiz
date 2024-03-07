@@ -1,0 +1,12 @@
+---
+version: "2.1"
+services:
+  extra-exam:
+    image: extra-exam:1.0.0
+    container_name: extra_exam
+    environment:
+      - TZ=America/Chicago
+    ports:
+      - 8080:8080
+    restart: unless-stopped
+

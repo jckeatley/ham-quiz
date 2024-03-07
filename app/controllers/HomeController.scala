@@ -1,6 +1,7 @@
 package controllers
 
 import scala.annotation.tailrec
+import scala.compiletime.uninitialized
 import scala.util.Random
 import java.time.{Duration, Instant}
 
@@ -26,10 +27,8 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
   var total = 0
   var current = 0
   var correct = 0
-  var startTime: Instant = _
-  var stopTime: Instant = _
-
-  val postUrl: Call = routes.HomeController.scoreQuestion()
+  var startTime: Instant = uninitialized
+  var stopTime: Instant = uninitialized
 
   /**
    * Create an Action to render an HTML page.
@@ -48,7 +47,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     current = 1
     correct = 0
     startTime = Instant.now()
-    Ok(views.html.question(questions.head, form, postUrl, current, total))
+    Ok(views.html.question(questions.head, form, current, total))
   }
 
   def continue: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
@@ -61,13 +60,13 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
       val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
       Ok(views.html.score(total, correct, score, elapsedTime))
     } else {
-      Ok(views.html.question(questions.head, form, postUrl, current, total))
+      Ok(views.html.question(questions.head, form, current, total))
     }
   }
 
   def scoreQuestion: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     val errorFunction = { (formWithErrors: Form[Data]) =>
-      Ok(views.html.explanation(questions.head, form, postUrl, current, total, ""))
+      Ok(views.html.explanation(questions.head, form, current, total, ""))
     }
 
     val successFunction = { (data: Data) =>
@@ -84,11 +83,11 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
           val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
           Ok(html.score(total, correct, score, elapsedTime))
         } else {
-          Ok(views.html.question(questions.head, form, postUrl, current, total))
+          Ok(views.html.question(questions.head, form, current, total))
         }
       } else {
         // Answer is wrong -- reshow question with answer:
-        Ok(views.html.explanation(questions.head, form, postUrl, current, total, data.answerId))
+        Ok(views.html.explanation(questions.head, form, current, total, data.answerId))
       }
     }
 

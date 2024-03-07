@@ -48,6 +48,7 @@
 
 .correct {
     color: green;
+    font-weight: bolder;
 }
 
 .wrong {

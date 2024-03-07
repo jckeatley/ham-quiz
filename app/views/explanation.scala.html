@@ -1,4 +1,4 @@
-@(question: Question, form: Form[QuestionForm.Data], postUrl: play.api.mvc.Call, current: Int, total: Int, givenAnswer: String)(implicit requestHeader: RequestHeader)
+@(question: Question, form: Form[QuestionForm.Data], current: Int, total: Int, givenAnswer: String)
 
 @main(s"Question $current/$total [${question.name}]") {
     <div class="header">
