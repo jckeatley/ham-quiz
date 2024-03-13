@@ -15,7 +15,7 @@
         <div class="figure"><img src="/assets/images/@{question.imageURL.get}"/></div>
     }
     <div class="question">@question.text</div>
-    @helper.form(action = routes.HomeController.scoreQuestion()) {
+    @helper.form(action = routes.HomeController.scoreQuestion) {
         @helper.CSRF.formField
         <div class="answers">
         @for(answer <- question.answers) {
@@ -25,7 +25,7 @@
             </div>
         }
         </div>
-        <button class="quit" onclick="window.location.href = '/';">Quit</button>
         <input type="submit" class="button" value="Submit"/>
     }
+    <button class="quit" onclick="window.location.href = '/';">Quit</button>
 }

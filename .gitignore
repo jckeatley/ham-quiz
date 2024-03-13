@@ -1,6 +1,6 @@
 logs
 target
-/.bsp
+.bsp/
 /.g8
 /.idea
 /.idea_modules

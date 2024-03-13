@@ -37,7 +37,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
    * will be called when the application receives a `GET` request with
    * a path of `/`.
    */
-  def index(): Action[AnyContent] = Action { implicit request: Request[AnyContent] =>
+  def index: Action[AnyContent] = Action { implicit request: Request[AnyContent] =>
     Ok(views.html.index())
   }
 
@@ -62,6 +62,10 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     } else {
       Ok(views.html.question(questions.head, form, current, total))
     }
+  }
+
+  def quit: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
+    Ok(views.html.index())
   }
 
   def scoreQuestion: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
