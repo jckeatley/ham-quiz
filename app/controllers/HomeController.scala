@@ -3,12 +3,14 @@ package controllers
 import scala.annotation.tailrec
 import scala.compiletime.uninitialized
 import scala.util.Random
-import java.time.{Duration, Instant}
 
+import java.time.{Duration, Instant}
 import javax.inject.*
 
-import models.{Answer, Question}
+import controllers.QuestionForm.*
+import models.{Answer, Group, Question}
 import play.api.*
+import play.api.data.Form
 import play.api.mvc.*
 import views.html
 
@@ -19,16 +21,13 @@ import views.html
 @Singleton
 class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: ControllerComponents)
   extends AbstractController(cc) {
-
-  import play.api.data.Form
-  import QuestionForm.*
-
+  private val random = new Random()
+  private var startTime: Instant = uninitialized
+  private var stopTime: Instant = uninitialized
   var questions: List[Question] = Nil
   var total = 0
   var current = 0
   var correct = 0
-  var startTime: Instant = uninitialized
-  var stopTime: Instant = uninitialized
 
   /**
    * Create an Action to render an HTML page.
@@ -42,7 +41,8 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
   }
 
   def startQuiz: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
-    questions = generateQuestions
+    val groups = QuizParser.loadQuiz()
+    questions = groups.map(generateQuestion).toList
     total = questions.length
     current = 1
     correct = 0
@@ -99,7 +99,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     formValidationResult.fold(errorFunction, successFunction)
   }
 
-  def selectRandomFromList[T](random: Random, items: List[T]): (T, List[T]) = {
+  private def selectRandomFromList[T](items: List[T]): (T, List[T]) = {
     if (items.isEmpty) {
       throw new IllegalStateException("Items list is empty.")
     }
@@ -111,38 +111,30 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     }
   }
 
-  @tailrec private def randomizeAnswers(random: Random, answers: List[Answer], accum: List[Answer] = Nil): List[Answer] = {
+  @tailrec private def randomizeAnswers(answers: List[Answer], accum: List[Answer] = Nil): List[Answer] = {
     if (answers == Nil) {
       accum
     } else {
-      val (item, rest) = selectRandomFromList(random, answers)
-      randomizeAnswers(random, rest, item :: accum)
+      val (item, rest) = selectRandomFromList(answers)
+      randomizeAnswers(rest, item :: accum)
     }
   }
 
-  def generateQuestions: List[Question] = {
-    val groups = QuizParser.loadQuiz()
-    val random = new Random()
-
-    val questions = for {
-      group <- groups
-      activeQuestions = group.questions.filter(q => !q.disabled)
-      question = activeQuestions(random.nextInt(activeQuestions.length))
+  private def generateQuestion(group: Group): Question = {
+    val activeQuestions = group.questions.filter(q => !q.disabled)
+    val question = activeQuestions(random.nextInt(activeQuestions.length))
+    val keys = question.answers.map(a => a.id)
+    val (answers, last) = question.answers.partition(a => !a.last)
+    val randAnswers = randomizeAnswers(answers) ++ last
+    var newCorrect = ""
+    val newAnswers = for {
+      (key, answer) <- keys.zip(randAnswers)
     } yield {
-      val keys = question.answers.map(a => a.id)
-      val (answers, last) = question.answers.partition(a => !a.last)
-      val randAnswers = randomizeAnswers(random, answers) ++ last
-      var newCorrect = ""
-      val newAnswers = for {
-        (key, answer) <- keys.zip(randAnswers)
-      } yield {
-        if (answer.id == question.correctAnswer) {
-          newCorrect = key
-        }
-        answer.copy(id = key)
+      if (answer.id == question.correctAnswer) {
+        newCorrect = key
       }
-      question.copy(answers = newAnswers, correctAnswer = newCorrect)
+      answer.copy(id = key)
     }
-    questions.toList
+    question.copy(answers = newAnswers, correctAnswer = newCorrect)
   }
 }

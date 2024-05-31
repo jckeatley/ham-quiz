@@ -3,27 +3,31 @@ import com.typesafe.sbt.packager.docker._
 name := """extra-exam"""
 organization := "us.keatley"
 
-version := "1.0.0"
+version := "1.0.2"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "3.4.0"
+scalaVersion := "3.4.2"
 
 libraryDependencies += guice
-libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.0" % Test
+libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
 
 Docker / maintainer := "jckeatley@gmail.com"
 Docker / packageName := "extra-exam"
 Docker / version := version.value
 Docker / daemonUserUid := None
 Docker / daemonUser := "daemon"
+Docker / mappings := {
+  val dockerMappings = (Docker / mappings).value
+  dockerMappings filter {
+    case (file, name) => ! name.startsWith("/opt/docker/conf/")
+  }
+}
 dockerExposedPorts := Seq(8080)
 dockerBaseImage := "azul/zulu-openjdk:11-latest"
 dockerUpdateLatest := true
 dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
-
-//dockerCommands += ExecCmd("RUN", "chmod", "u+rwx", s"${(Docker / defaultLinuxInstallLocation).value}/")
 
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "us.keatley.controllers._"

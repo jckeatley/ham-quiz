@@ -5,11 +5,11 @@ import scala.xml.*
 import models.{Answer, Group, Question}
 
 object QuizParser {
-  def parseQuiz(is: InputSource): Seq[Group] = {
+  private def parseQuiz(is: InputSource): Seq[Group] = {
     val root: Elem = XML.load(is)
     for {
-      subelement <- root \ "subelement"
-      group <- subelement \ "group"
+      subElement <- root \ "subelement"
+      group <- subElement \ "group"
       groupId = (group \ "@id").text
     } yield {
       val questions = for {
@@ -18,11 +18,11 @@ object QuizParser {
         corrAnsId = (question \ "@correct").text
         text = (question \ "text").text
         imageTag = (question \ "image").headOption
-        disabledAtrb = (question \ "disabled").headOption
+        disabledAttrib = (question \ "@disabled").headOption
       } yield {
         val questSection = (question \ "@section").headOption.map(_.text)
         val imageUrl = imageTag.map(tag => (tag \ "@url").text)
-        val disabled = disabledAtrb.exists(tag => tag.text == "true")
+        val disabled = disabledAttrib.exists(tag => tag.text == "true")
 
         val answers: Seq[Answer] = for {
           answer <- question \ "answer"

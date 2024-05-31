@@ -448,7 +448,7 @@ Effective July 1, 2020
         <answer id="D">Operations may commence immediately, and may continue unless interference is reported by the UTC</answer>
       </question>
     </group>
-    <group id="E1DE1D">
+    <group id="E1D">
       <description>E1D Amateur space and Earth stations; telemetry and telecommand rules; identification of balloon transmissions; one-way communications</description>
       <question id="E1D01" correct="A" section="97.3">
         <text>What is the definition of telemetry?</text>

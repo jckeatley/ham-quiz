@@ -1,12 +1,18 @@
 ---
-version: "2.1"
 services:
   extra-exam:
-    image: extra-exam:1.0.0
+    image: extra-exam:1.0.2
     container_name: extra_exam
     environment:
       - TZ=America/Chicago
     ports:
-      - 8080:8080
+      - 8080:80
+      - 8443:443
+    volumes:
+      - type: bind
+        source: ./logs
+        target: /opt/docker/logs
+      - type: bind
+        source: ./conf
+        target: /opt/docker/conf
     restart: unless-stopped
-
