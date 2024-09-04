@@ -3,11 +3,11 @@ import com.typesafe.sbt.packager.docker._
 name := """extra-exam"""
 organization := "us.keatley"
 
-version := "1.0.2"
+version := "1.0.3"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "3.4.2"
+scalaVersion := "3.5.0"
 
 libraryDependencies += guice
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
