@@ -3,11 +3,11 @@ import com.typesafe.sbt.packager.docker._
 name := """extra-exam"""
 organization := "us.keatley"
 
-version := "1.0.3"
+version := "1.0.4"
 
 lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
-scalaVersion := "3.5.0"
+scalaVersion := "3.6.3"
 
 libraryDependencies += guice
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
@@ -24,7 +24,7 @@ Docker / mappings := {
   }
 }
 dockerExposedPorts := Seq(8080)
-dockerBaseImage := "azul/zulu-openjdk:11-latest"
+dockerBaseImage := "azul/zulu-openjdk:17-latest"
 dockerUpdateLatest := true
 dockerChmodType := DockerChmodType.UserGroupWriteExecute
 dockerPermissionStrategy := DockerPermissionStrategy.CopyChown
