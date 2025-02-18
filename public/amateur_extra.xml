@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <doc>
+  <title>2024-2028 Extra Class Pool</title>
   <description>
 2024-2028 Extra Class Pool 2nd Errata
 Issued November 8, 2024
@@ -159,6 +160,7 @@ E0A Safety: RF radiation hazards; hazardous materials; grounding
 FCC Element 4 Question Pool
 Effective July 1, 2024
   </description>
+  <effectiveDate>2024-07-01</effectiveDate>
   <subelement id="E1">
     <description>SUBELEMENT E1 - COMMISSION RULES [6 Exam Questions - 6 Groups]</description>
     <group id="E1A">
@@ -2098,7 +2100,7 @@ Effective July 1, 2024
       </question>
       <question id="E5C10" correct="B">
         <text>Which point on Figure E5-1 best represents the impedance of a series circuit consisting of a 400-ohm resistor and a 38-picofarad capacitor at 14 MHz?</text>
-				<image url="Figure_E5-1.png"/>
+        <image url="Figure_E5-1.png"/>
         <answer id="A">Point 2</answer>
         <answer id="B">Point 4</answer>
         <answer id="C">Point 5</answer>
@@ -2106,7 +2108,7 @@ Effective July 1, 2024
       </question>
       <question id="E5C11" correct="B">
         <text>Which point in Figure E5-1 best represents the impedance of a series circuit consisting of a 300-ohm resistor and an 18-microhenry inductor at 3.505 MHz?</text>
-				<image url="Figure_E5-1.png"/>
+        <image url="Figure_E5-1.png"/>
         <answer id="A">Point 1</answer>
         <answer id="B">Point 3</answer>
         <answer id="C">Point 7</answer>
@@ -2114,7 +2116,7 @@ Effective July 1, 2024
       </question>
       <question id="E5C12" correct="A">
         <text>Which point on Figure E5-1 best represents the impedance of a series circuit consisting of a 300-ohm resistor and a 19-picofarad capacitor at 21.200 MHz?</text>
-				<image url="Figure_E5-1.png"/>
+        <image url="Figure_E5-1.png"/>
         <answer id="A">Point 1</answer>
         <answer id="B">Point 3</answer>
         <answer id="C">Point 7</answer>
@@ -2278,7 +2280,7 @@ Effective July 1, 2024
       </question>
       <question id="E6A10" correct="B">
         <text>In Figure E6-1, which is the schematic symbol for an N-channel dual-gate MOSFET?</text>
-				<image url="Figure_E6-1.png"/>
+        <image url="Figure_E6-1.png"/>
         <answer id="A">2</answer>
         <answer id="B">4</answer>
         <answer id="C">5</answer>
@@ -2286,7 +2288,7 @@ Effective July 1, 2024
       </question>
       <question id="E6A11" correct="A">
         <text>In Figure E6-1, which is the schematic symbol for a P-channel junction FET?</text>
-				<image url="Figure_E6-1.png"/>
+        <image url="Figure_E6-1.png"/>
         <answer id="A">1</answer>
         <answer id="B">2</answer>
         <answer id="C">3</answer>
@@ -2367,7 +2369,7 @@ Effective July 1, 2024
       </question>
       <question id="E6B10" correct="B">
         <text>In Figure E6-2, which is the schematic symbol for a Schottky diode?</text>
-				<image url="Figure_E6-2.png"/>
+        <image url="Figure_E6-2.png"/>
         <answer id="A">1</answer>
         <answer id="B">6</answer>
         <answer id="C">2</answer>
@@ -2434,7 +2436,7 @@ Effective July 1, 2024
       </question>
       <question id="E6C08" correct="B">
         <text>In Figure E6-3, which is the schematic symbol for a NAND gate?</text>
-				<image url="Figure_E6-3.png"/>
+        <image url="Figure_E6-3.png"/>
         <answer id="A">1</answer>
         <answer id="B">2</answer>
         <answer id="C">3</answer>
@@ -2449,7 +2451,7 @@ Effective July 1, 2024
       </question>
       <question id="E6C10" correct="D">
         <text>In Figure E6-3, which is the schematic symbol for a NOR gate?</text>
-				<image url="Figure_E6-3.png"/>
+        <image url="Figure_E6-3.png"/>
         <answer id="A">1</answer>
         <answer id="B">2</answer>
         <answer id="C">3</answer>
@@ -2457,7 +2459,7 @@ Effective July 1, 2024
       </question>
       <question id="E6C11" correct="C">
         <text>In Figure E6-3, which is the schematic symbol for the NOT operation (inversion)?</text>
-				<image url="Figure_E6-3.png"/>
+        <image url="Figure_E6-3.png"/>
         <answer id="A">2</answer>
         <answer id="B">4</answer>
         <answer id="C">5</answer>
@@ -2868,7 +2870,7 @@ Effective July 1, 2024
       </question>
       <question id="E7B10" correct="B">
         <text>In Figure E7-1, what is the purpose of R1 and R2?</text>
-				<image url="Figure_E7-1.png"/>
+        <image url="Figure_E7-1.png"/>
         <answer id="A">Load resistors</answer>
         <answer id="B">Voltage divider bias</answer>
         <answer id="C">Self bias</answer>
@@ -2876,7 +2878,7 @@ Effective July 1, 2024
       </question>
       <question id="E7B11" correct="D">
         <text>In Figure E7-1, what is the purpose of R3?</text>
-				<image url="Figure_E7-1.png"/>
+        <image url="Figure_E7-1.png"/>
         <answer id="A">Fixed bias</answer>
         <answer id="B">Emitter bypass</answer>
         <answer id="C">Output load resistor</answer>
@@ -2884,7 +2886,7 @@ Effective July 1, 2024
       </question>
       <question id="E7B12" correct="C">
         <text>What type of amplifier circuit is shown in Figure E7-1?</text>
-				<image url="Figure_E7-1.png"/>
+        <image url="Figure_E7-1.png"/>
         <answer id="A">Common base</answer>
         <answer id="B">Common collector</answer>
         <answer id="C">Common emitter</answer>
@@ -3010,7 +3012,7 @@ Effective July 1, 2024
       </question>
       <question id="E7D06" correct="C">
         <text>What is the purpose of Q1 in the circuit shown in Figure E7-2?</text>
-				<image url="Figure_E7-2.png"/>
+        <image url="Figure_E7-2.png"/>
         <answer id="A">It provides negative feedback to improve regulation</answer>
         <answer id="B">It provides a constant load for the voltage source</answer>
         <answer id="C">It controls the current to keep the output voltage constant</answer>
@@ -3018,7 +3020,7 @@ Effective July 1, 2024
       </question>
       <question id="E7D07" correct="A">
         <text>What is the purpose of C2 in the circuit shown in Figure E7-2?</text>
-				<image url="Figure_E7-2.png"/>
+        <image url="Figure_E7-2.png"/>
         <answer id="A">It bypasses rectifier output ripple around D1</answer>
         <answer id="B">It is a brute force filter for the output</answer>
         <answer id="C">To prevent self-oscillation</answer>
@@ -3026,7 +3028,7 @@ Effective July 1, 2024
       </question>
       <question id="E7D08" correct="C">
         <text>What type of circuit is shown in Figure E7-2?</text>
-				<image url="Figure_E7-2.png"/>
+        <image url="Figure_E7-2.png"/>
         <answer id="A">Switching voltage regulator</answer>
         <answer id="B">Common emitter amplifier</answer>
         <answer id="C">Linear voltage regulator</answer>
@@ -3309,7 +3311,7 @@ Effective July 1, 2024
       </question>
       <question id="E7G07" correct="C">
         <text>What voltage gain can be expected from the circuit in Figure E7‑3 when R1 is 10 ohms and RF is 470 ohms?</text>
-				<image url="Figure_E7-3.png"/>
+        <image url="Figure_E7-3.png"/>
         <answer id="A">0.21</answer>
         <answer id="B">4700</answer>
         <answer id="C">47</answer>
@@ -3324,7 +3326,7 @@ Effective July 1, 2024
       </question>
       <question id="E7G09" correct="D">
         <text>What will be the output voltage of the circuit shown in Figure E7-3 if R1 is 1,000 ohms, RF is 10,000 ohms, and 0.23 volts DC is applied to the input?</text>
-				<image url="Figure_E7-3.png"/>
+        <image url="Figure_E7-3.png"/>
         <answer id="A">0.23 volts</answer>
         <answer id="B">2.3 volts</answer>
         <answer id="C">-0.23 volts</answer>
@@ -3332,7 +3334,7 @@ Effective July 1, 2024
       </question>
       <question id="E7G10" correct="C">
         <text>What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 1,800 ohms and RF is 68 kilohms?</text>
-				<image url="Figure_E7-3.png"/>
+        <image url="Figure_E7-3.png"/>
         <answer id="A">1</answer>
         <answer id="B">0.03</answer>
         <answer id="C">38</answer>
@@ -3340,7 +3342,7 @@ Effective July 1, 2024
       </question>
       <question id="E7G11" correct="B">
         <text>What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 3,300 ohms and RF is 47 kilohms?</text>
-				<image url="Figure_E7-3.png"/>
+        <image url="Figure_E7-3.png"/>
         <answer id="A">28</answer>
         <answer id="B">14</answer>
         <answer id="C">7</answer>
@@ -3893,7 +3895,7 @@ Effective July 1, 2024
       <description>E9B Antenna patterns and designs: azimuth and elevation patterns; gain as a function of pattern; antenna modeling</description>
       <question id="E9B01" correct="B">
         <text>What is the 3 dB beamwidth of the antenna radiation pattern shown in Figure E9-1?</text>
-				<image url="Figure_E9-1.png"/>
+        <image url="Figure_E9-1.png"/>
         <answer id="A">75 degrees</answer>
         <answer id="B">50 degrees</answer>
         <answer id="C">25 degrees</answer>
@@ -3901,7 +3903,7 @@ Effective July 1, 2024
       </question>
       <question id="E9B02" correct="D">
         <text>What is the front-to-back ratio of the antenna radiation pattern shown in Figure E9-1?</text>
-				<image url="Figure_E9-1.png"/>
+        <image url="Figure_E9-1.png"/>
         <answer id="A">36 dB</answer>
         <answer id="B">14 dB</answer>
         <answer id="C">24 dB</answer>
@@ -3909,7 +3911,7 @@ Effective July 1, 2024
       </question>
       <question id="E9B03" correct="D">
         <text>What is the front-to-side ratio of the antenna radiation pattern shown in Figure E9-1?</text>
-				<image url="Figure_E9-1.png"/>
+        <image url="Figure_E9-1.png"/>
         <answer id="A">12 dB</answer>
         <answer id="B">24 dB</answer>
         <answer id="C">18 dB</answer>
@@ -3917,7 +3919,7 @@ Effective July 1, 2024
       </question>
       <question id="E9B04" correct="B">
         <text>What is the front-to-back ratio of the radiation pattern shown in Figure E9‑2?</text>
-				<image url="Figure_E9-2.png"/>
+        <image url="Figure_E9-2.png"/>
         <answer id="A">15 dB</answer>
         <answer id="B">28 dB</answer>
         <answer id="C">3 dB</answer>
@@ -3925,7 +3927,7 @@ Effective July 1, 2024
       </question>
       <question id="E9B05" correct="A">
         <text>What type of antenna pattern is shown in Figure E9-2?</text>
-				<image url="Figure_E9-2.png"/>
+        <image url="Figure_E9-2.png"/>
         <answer id="A">Elevation</answer>
         <answer id="B">Azimuth</answer>
         <answer id="C">Near field</answer>
@@ -3933,7 +3935,7 @@ Effective July 1, 2024
       </question>
       <question id="E9B06" correct="C">
         <text>What is the elevation angle of peak response in the antenna radiation pattern shown in Figure E9-2?</text>
-				<image url="Figure_E9-2.png"/>
+        <image url="Figure_E9-2.png"/>
         <answer id="A">45 degrees</answer>
         <answer id="B">75 degrees</answer>
         <answer id="C">7.5 degrees</answer>
@@ -4364,8 +4366,8 @@ Effective July 1, 2024
         <answer id="D">Determine the loss/100 feet of a transmission line, given the velocity factor and conductor materials</answer>
       </question>
       <question id="E9G06" correct="B">
-				<text>On the Smith chart shown in Figure E9-3, what is the name for the large outer circle on which the reactance arcs terminate?</text>
-				<image url="Figure_E9-3.png"/>
+        <text>On the Smith chart shown in Figure E9-3, what is the name for the large outer circle on which the reactance arcs terminate?</text>
+        <image url="Figure_E9-3.png"/>
         <answer id="A">Prime axis</answer>
         <answer id="B">Reactance axis</answer>
         <answer id="C">Impedance axis</answer>
@@ -4373,7 +4375,7 @@ Effective July 1, 2024
       </question>
       <question id="E9G07" correct="D">
         <text>On the Smith chart shown in Figure E9-3, what is the only straight line shown?</text>
-				<image url="Figure_E9-3.png"/>
+        <image url="Figure_E9-3.png"/>
         <answer id="A">The reactance axis</answer>
         <answer id="B">The current axis</answer>
         <answer id="C">The voltage axis</answer>
@@ -4580,4 +4582,5 @@ Effective July 1, 2024
     </group>
   </subelement>
 </doc>
+<!-- vi:set ts=2 sw=2 ai et: -->
 
