@@ -1,0 +1,3183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <title>2022-2026 Technician Class Question Pool</title>
+  <description>
+2022-2026 Technician Class Question Pool Errata
+
+The following changes have been made to the posted
+2022-2026 Technician Class FCC Element 2 Question Pool
+Released on January 3, 2022
+
+
+Modification of Public Release issued on March 7, 2022
+
+4 Question Modifications:
+T2A09 –replaced station’s with repeater’s in answer A to read:
+A. “CQ CQ” followed by the repeater’s call sign
+T2B12 - replaced answer A to read:
+A. Must match the repeater color code for access
+T6B07 remove DC in answers A and B
+T8D02 replaced digital with DMR before repeater in the question to read:
+What is a Talkgroup on a DMR repeater?
+
+
+
+Modification of Public Release issued on January 17, 2022
+
+1 Question Deletion:
+T7D05 withdrawn from use
+The remaining questions in T7D were not renumbered
+
+
+
+Modification of Public Release issued on January 6, 2022
+
+5 Question Modifications:
+T4A07 replaced : (semi-colon) with . (period) in distractors
+T5C08, T5D01, T5D02, T5DO3 reverted ‘V’ to ‘E’
+
+
+
+
+
+2022-2026 Technician Class
+FCC Element 2 Question Pool Syllabus
+Effective 7/01/2022 – 6/30/2026
+
+
+SUBELEMENT T1 – COMMISSION’S RULES - [6 Exam Questions - 6 Groups]  67 Questions
+
+T1A - Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant; Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator
+
+T1B - Frequency allocations; Emission modes; Spectrum sharing; Transmissions near band edges; Contacting the International Space Station; Power output
+
+T1C - Licensing: classes, sequential and vanity call sign systems, places where the Amateur Radio Service is regulated by the FCC, name and address on FCC license database, term, renewal, grace period, maintaining mailing address; International communications
+
+T1D - Authorized and prohibited transmissions: communications with other countries, music, exchange of information with other services, indecent language, compensation for operating, retransmission of other amateur signals, encryption, sale of equipment, unidentified transmissions, one-way transmission
+
+T1E - Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote
+
+T1F - Station identification; Repeaters; Third party communications; Club stations; FCC inspection
+
+
+SUBELEMENT T2 - OPERATING PROCEDURES - [3 Exam Questions - 3 Groups]  36 Questions
+
+T2A - Station operation: choosing an operating frequency, calling another station, test transmissions; Band plans: calling frequencies, repeater offsets
+
+T2B – VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR operation; Resolving operational problems; Q signals
+
+T2C – Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic procedures, operating restrictions during emergencies, use of phonetics in message handling
+
+
+SUBELEMENT T3 – RADIO WAVE PROPAGATION – [3 Exam Questions - 3 Groups]  34  Questions
+
+T3A - Radio wave characteristics: how a radio signal travels, fading, multipath, polarization, wavelength vs absorption; Antenna orientation
+
+T3B - Electromagnetic wave properties: wavelength vs frequency, nature and velocity of electromagnetic waves, relationship of wavelength and frequency; Electromagnetic spectrum definitions: UHF, VHF, HF
+
+T3C - Propagation modes: sporadic E, meteor scatter, auroral propagation, tropospheric ducting; F region skip; Line of sight and radio horizon
+
+
+SUBELEMENT T4 – AMATEUR RADIO PRACTICES – [2 Exam Questions - 2 Groups]  24 Questions
+
+T4A – Station setup: connecting a microphone, a power source, a computer, digital equipment, an SWR meter; bonding; Mobile radio installation
+
+T4B - Operating controls: frequency tuning, use of filters, squelch function, AGC, memory channels, noise blanker, microphone gain, receiver incremental tuning (RIT), bandwidth selection, digital transceiver configuration
+
+
+SUBELEMENT T5 – ELECTRICAL PRINCIPLES – [4 Exam Questions - 4 Groups]  52 Questions
+
+T5A – Current and voltage: terminology and units, conductors and insulators, alternating and direct current
+
+T5B - Math for electronics: conversion of electrical units, decibels
+
+T5C – Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance definition and units; Calculating power
+
+T5D – Ohm’s Law; Series and parallel circuits
+
+
+SUBELEMENT T6 – ELECTRONIC AND ELECTRICAL COMPONENTS – [4 Exam Questions - 4 Groups]  47 Questions
+
+T6A - Fixed and variable resistors; Capacitors; Inductors; Fuses; Switches; Batteries
+
+T6B – Semiconductors: basic principles and applications of solid state devices, diodes and transistors
+
+T6C - Circuit diagrams: use of schematics, basic structure; Schematic symbols of basic components
+
+T6D - Component functions: rectifiers, relays, voltage regulators, meters, indicators, integrated circuits, transformers; Resonant circuit; Shielding
+
+
+SUBELEMENT T7 – PRACTICAL CIRCUITS – [4 Exam Questions - 4 Groups]  44 Questions
+
+T7A – Station equipment: receivers, transceivers, transmitter amplifiers, receive amplifiers, transverters; Basic radio circuit concepts and terminology: sensitivity, selectivity, mixers, oscillators, PTT, modulation
+
+T7B – Symptoms, causes, and cures of common transmitter and receiver problems: overload and overdrive, distortion, interference and consumer electronics, RF feedback
+
+T7C – Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR, causes of feed line failures; Basic coaxial cable characteristics; Use of dummy loads when testing
+
+T7D – Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering
+
+
+SUBELEMENT T8 – SIGNALS AND EMISSIONS – [4 Exam Questions - 4 Groups]  48 Questions
+
+T8A – Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV; Choice of emission type: selection of USB vs LSB, use of SSB for weak signal work, use of FM for VHF packet and repeaters
+
+T8B - Amateur satellite operation: Doppler shift, basic orbits, operating protocols, modulation mode selection, transmitter power considerations, telemetry and telecommand, satellite tracking programs, beacons, uplink and downlink mode definitions, spin fading, definition of “LEO”, setting uplink power
+
+T8C – Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators
+
+T8D – Non-voice and digital communications: image signals and definition of NTSC, CW, packet radio, PSK, APRS, error detection and correction, amateur radio networking, Digital Mobile Radio, WSJT modes, Broadband-Hamnet
+
+
+SUBELEMENT T9 – ANTENNAS AND FEED LINES - [2 Exam Questions - 2 Groups]  24 Questions
+
+T9A – Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam antennas, antenna loading, common portable and mobile antennas, relationships between resonant length and frequency, dipole pattern
+
+T9B – Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF Connectors: selecting, weather protection
+
+
+SUBELEMENT T0 – SAFETY – [3 Exam Questions - 3 Groups]  36 Questions
+
+T0A – Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code compliance; Lightning protection; Battery safety
+
+T0B – Antenna safety: tower safety and grounding, installing antennas, antenna supports
+
+T0C - RF hazards: radiation exposure, proximity to antennas, recognized safe power levels, radiation types, duty cycle
+
+
+
+2022-2026 Technician Class
+FCC Element 2 Question Pool
+Effective 7/01/2022 – 6/30/2026
+  </description>
+  <effectiveDate>2022-07-01</effectiveDate>
+  <subelement id="T1">
+    <description>SUBELEMENT T1 – COMMISSION’S RULES - [6 Exam Questions - 6 Groups]</description>
+    <group id="T1A">
+      <description>T1A - Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant; Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator</description>
+      <question id="T1A01" correct="C" section="97.1">
+        <text>Which of the following is part of the Basis and Purpose of the Amateur Radio Service?</text>
+        <answer id="A">Providing personal radio communications for as many citizens as possible</answer>
+        <answer id="B">Providing communications for international non-profit organizations</answer>
+        <answer id="C">Advancing skills in the technical and communication phases of the radio art</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1A02" correct="C" section="97.1">
+        <text>Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?</text>
+        <answer id="A">FEMA</answer>
+        <answer id="B">Homeland Security</answer>
+        <answer id="C">The FCC</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1A03" correct="B" section="97.119(b)(2)">
+        <text>What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?</text>
+        <answer id="A">It is required when transmitting emergency messages</answer>
+        <answer id="B">It is encouraged</answer>
+        <answer id="C">It is required when in contact with foreign stations</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1A04" correct="A" section="97.5(b)(1)">
+        <text>How many operator/primary station license grants may be held by any one person?</text>
+        <answer id="A">One</answer>
+        <answer id="B">No more than two</answer>
+        <answer id="C">One for each band on which the person plans to operate</answer>
+        <answer id="D">One for each permanent station location from which the person plans to operate</answer>
+      </question>
+      <question id="T1A05" correct="C" section="97.7">
+        <text>What proves that the FCC has issued an operator/primary license grant?</text>
+        <answer id="A">A printed copy of the certificate of successful completion of examination</answer>
+        <answer id="B">An email notification from the NCVEC granting the license</answer>
+        <answer id="C">The license appears in the FCC ULS database</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1A06" correct="D" section="97.3(a)(9)">
+        <text>What is the FCC Part 97 definition of a beacon?</text>
+        <answer id="A">A government transmitter marking the amateur radio band edges</answer>
+        <answer id="B">A bulletin sent by the FCC to announce a national emergency</answer>
+        <answer id="C">A continuous transmission of weather information authorized in the amateur bands by the National Weather Service</answer>
+        <answer id="D">An amateur station transmitting communications for the purposes of observing propagation or related experimental activities</answer>
+      </question>
+      <question id="T1A07" correct="C" section="97.3(a)(41)">
+        <text>What is the FCC Part 97 definition of a space station?</text>
+        <answer id="A">Any satellite orbiting Earth</answer>
+        <answer id="B">A manned satellite orbiting Earth</answer>
+        <answer id="C">An amateur station located more than 50 km above Earth's surface</answer>
+        <answer id="D">An amateur station using amateur radio satellites for relay of signals</answer>
+      </question>
+      <question id="T1A08" correct="B" section="97.3(a)(22)">
+        <text>Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater stations?</text>
+        <answer id="A">Frequency Spectrum Manager appointed by the FCC</answer>
+        <answer id="B">Volunteer Frequency Coordinator recognized by local amateurs</answer>
+        <answer id="C">FCC Regional Field Office</answer>
+        <answer id="D">International Telecommunication Union</answer>
+      </question>
+      <question id="T1A09" correct="C" section="97.3(a)(22)">
+        <text>Who selects a Frequency Coordinator?</text>
+        <answer id="A">The FCC Office of Spectrum Management and Coordination Policy</answer>
+        <answer id="B">The local chapter of the Office of National Council of Independent Frequency Coordinators</answer>
+        <answer id="C">Amateur operators in a local or regional area whose stations are eligible to be repeater or auxiliary stations</answer>
+        <answer id="D">FCC Regional Field Office</answer>
+      </question>
+      <question id="T1A10" correct="D" section="97.3(a)(38), 97.407">
+        <text>What is the Radio Amateur Civil Emergency Service (RACES)?</text>
+        <answer id="A">A radio service using amateur frequencies for emergency management or civil defense communications</answer>
+        <answer id="B">A radio service using amateur stations for emergency management or civil defense communications</answer>
+        <answer id="C">An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1A11" correct="B" section="97.101 (d)">
+        <text>When is willful interference to other amateur radio stations permitted?</text>
+        <answer id="A">To stop another amateur station that is breaking the FCC rules</answer>
+        <answer id="B">At no time</answer>
+        <answer id="C">When making short test transmissions</answer>
+        <answer id="D">At any time, stations in the Amateur Radio Service are not protected from willful interference</answer>
+      </question>
+    </group>
+    <group id="T1B">
+      <description>T1B - Frequency allocations; Emission modes; Spectrum sharing; Transmissions near band edges; Contacting the International Space Station; Power output</description>
+      <question id="T1B01" correct="C" section="97.301 (e)">
+        <text>Which of the following frequency ranges are available for phone operation by Technician licensees?</text>
+        <answer id="A">28.050 MHz to 28.150 MHz</answer>
+        <answer id="B">28.100 MHz to 28.300 MHz</answer>
+        <answer id="C">28.300 MHz to 28.500 MHz</answer>
+        <answer id="D">28.500 MHz to 28.600 MHz</answer>
+      </question>
+      <question id="T1B02" correct="B" section="97.301, 97.207(c)">
+        <text>Which amateurs may contact the International Space Station (ISS) on VHF bands?</text>
+        <answer id="A">Any amateur holding a General class or higher license</answer>
+        <answer id="B">Any amateur holding a Technician class or higher license</answer>
+        <answer id="C">Any amateur holding a General class or higher license who has applied for and received approval from NASA</answer>
+        <answer id="D">Any amateur holding a Technician class or higher license who has applied for and received approval from NASA</answer>
+      </question>
+      <question id="T1B03" correct="B" section="97.301(a)">
+        <text>Which frequency is in the 6 meter amateur band?</text>
+        <answer id="A">49.00 MHz</answer>
+        <answer id="B">52.525 MHz</answer>
+        <answer id="C">28.50 MHz</answer>
+        <answer id="D">222.15 MHz</answer>
+      </question>
+      <question id="T1B04" correct="D" section="97.301(a)">
+        <text>Which amateur band includes 146.52 MHz?</text>
+        <answer id="A">6 meters</answer>
+        <answer id="B">20 meters</answer>
+        <answer id="C">70 centimeters</answer>
+        <answer id="D">2 meters</answer>
+      </question>
+      <question id="T1B05" correct="D" section="97.305(c)">
+        <text>How may amateurs use the 219 to 220 MHz segment of 1.25 meter band?</text>
+        <answer id="A">Spread spectrum only</answer>
+        <answer id="B">Fast-scan television only</answer>
+        <answer id="C">Emergency traffic only</answer>
+        <answer id="D">Fixed digital message forwarding systems only</answer>
+      </question>
+      <question id="T1B06" correct="B" section="97.301(e), 97.305">
+        <text>On which HF bands does a Technician class operator have phone privileges?</text>
+        <answer id="A">None</answer>
+        <answer id="B">10 meter band only</answer>
+        <answer id="C">80 meter, 40 meter, 15 meter, and 10 meter bands</answer>
+        <answer id="D">30 meter band only</answer>
+      </question>
+      <question id="T1B07" correct="A" section="97.305(a), (c)">
+        <text>Which of the following VHF/UHF band segments are limited to CW only?</text>
+        <answer id="A">50.0 MHz to 50.1 MHz and 144.0 MHz to 144.1 MHz</answer>
+        <answer id="B">219 MHz to 220 MHz and 420.0 MHz to 420.1 MHz</answer>
+        <answer id="C">902.0 MHz to 902.1 MHz</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1B08" correct="A" section="97.303">
+        <text>How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?</text>
+        <answer id="A">U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them</answer>
+        <answer id="B">U.S. amateurs must give foreign amateur stations priority in those segments</answer>
+        <answer id="C">International communications are not permitted in those segments</answer>
+        <answer id="D">Digital transmissions are not permitted in those segments</answer>
+      </question>
+      <question id="T1B09" correct="D" section="97.101(a), 97.301(a-e)">
+        <text>Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?</text>
+        <answer id="A">To allow for calibration error in the transmitter frequency display</answer>
+        <answer id="B">So that modulation sidebands do not extend beyond the band edge</answer>
+        <answer id="C">To allow for transmitter frequency drift</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1B10" correct="C" section="97.305(c)">
+        <text>Where may SSB phone be used in amateur bands above 50 MHz?</text>
+        <answer id="A">Only in sub-bands allocated to General class or higher licensees</answer>
+        <answer id="B">Only on repeaters</answer>
+        <answer id="C">In at least some segment of all these bands</answer>
+        <answer id="D">On any band if the power is limited to 25 watts</answer>
+      </question>
+      <question id="T1B11" correct="A" section="97.313">
+        <text>What is the maximum peak envelope power output for Technician class operators in their HF band segments?</text>
+        <answer id="A">200 watts</answer>
+        <answer id="B">100 watts</answer>
+        <answer id="C">50 watts</answer>
+        <answer id="D">10 watts</answer>
+      </question>
+      <question id="T1B12" correct="D" section="97.313(b)">
+        <text>Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?</text>
+        <answer id="A">50 watts</answer>
+        <answer id="B">100 watts</answer>
+        <answer id="C">500 watts</answer>
+        <answer id="D">1500 watts</answer>
+      </question>
+    </group>
+    <group id="T1C">
+      <description>T1C - Licensing: classes, sequential and vanity call sign systems, places where the Amateur Radio Service is regulated by the FCC, name and address on FCC license database, term, renewal, grace period, maintaining mailing address; International communications</description>
+      <question id="T1C01" correct="D" section="97.9(a), 97.17(a)">
+        <text>For which license classes are new licenses currently available from the FCC?</text>
+        <answer id="A">Novice, Technician, General, Amateur Extra</answer>
+        <answer id="B">Technician, Technician Plus, General, Amateur Extra</answer>
+        <answer id="C">Novice, Technician Plus, General, Advanced</answer>
+        <answer id="D">Technician, General, Amateur Extra</answer>
+      </question>
+      <question id="T1C02" correct="D" section="97.19">
+        <text>Who may select a desired call sign under the vanity call sign rules?</text>
+        <answer id="A">Only a licensed amateur with a General or Amateur Extra Class license</answer>
+        <answer id="B">Only a licensed amateur with an Amateur Extra Class license</answer>
+        <answer id="C">Only a licensed amateur who has been licensed continuously for more than 10 years</answer>
+        <answer id="D">Any licensed amateur</answer>
+      </question>
+      <question id="T1C03" correct="A" section="97.117">
+        <text>What types of international communications are an FCC-licensed amateur radio station permitted to make?</text>
+        <answer id="A">Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character</answer>
+        <answer id="B">Communications incidental to conducting business or remarks of a personal nature</answer>
+        <answer id="C">Only communications incidental to contest exchanges; all other communications are prohibited</answer>
+        <answer id="D">Any communications that would be permitted by an international broadcast station</answer>
+      </question>
+      <question id="T1C04" correct="B" section="97.23">
+        <text>What may happen if the FCC is unable to reach you by email?</text>
+        <answer id="A">Fine and suspension of operator license</answer>
+        <answer id="B">Revocation of the station license or suspension of the operator license</answer>
+        <answer id="C">Revocation of access to the license record in the FCC system</answer>
+        <answer id="D">Nothing; there is no such requirement</answer>
+      </question>
+      <question id="T1C05" correct="A">
+        <text>Which of the following is a valid Technician class call sign format?</text>
+        <answer id="A">KF1XXX</answer>
+        <answer id="B">KA1X</answer>
+        <answer id="C">W1XX</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1C06" correct="D" section="97.5(a)(2)">
+        <text>From which of the following locations may an FCC-licensed amateur station transmit?</text>
+        <answer id="A">From within any country that belongs to the International Telecommunication Union</answer>
+        <answer id="B">From within any country that is a member of the United Nations</answer>
+        <answer id="C">From anywhere within International Telecommunication Union (ITU) Regions 2 and 3</answer>
+        <answer id="D">From any vessel or craft located in international waters and documented or registered in the United States</answer>
+      </question>
+      <question id="T1C07" correct="B" section="97.23">
+        <text>Which of the following can result in revocation of the station license or suspension of the operator license?</text>
+        <answer id="A">Failure to inform the FCC of any changes in the amateur station following performance of an RF safety environmental evaluation</answer>
+        <answer id="B">Failure to provide and maintain a correct email address with the FCC</answer>
+        <answer id="C">Failure to obtain FCC type acceptance prior to using a home-built transmitter</answer>
+        <answer id="D">Failure to have a copy of your license available at your station</answer>
+      </question>
+      <question id="T1C08" correct="C" section="97.25">
+        <text>What is the normal term for an FCC-issued amateur radio license?</text>
+        <answer id="A">Five years</answer>
+        <answer id="B">Life</answer>
+        <answer id="C">Ten years</answer>
+        <answer id="D">Eight years</answer>
+      </question>
+      <question id="T1C09" correct="A" section="97.21(a)(b)">
+        <text>What is the grace period for renewal if an amateur license expires?</text>
+        <answer id="A">Two years</answer>
+        <answer id="B">Three years</answer>
+        <answer id="C">Five years</answer>
+        <answer id="D">Ten years</answer>
+      </question>
+      <question id="T1C10" correct="C" section="97.5a">
+        <text>How soon after passing the examination for your first amateur radio license may you transmit on the amateur radio bands?</text>
+        <answer id="A">Immediately on receiving your Certificate of Successful Completion of Examination (CSCE)</answer>
+        <answer id="B">As soon as your operator/station license grant appears on the ARRL website</answer>
+        <answer id="C">As soon as your operator/station license grant appears in the FCC’s license database</answer>
+        <answer id="D">As soon as you receive your license in the mail from the FCC</answer>
+      </question>
+      <question id="T1C11" correct="D" section="97.21(b)">
+        <text>If your license has expired and is still within the allowable grace period, may you continue to transmit on the amateur radio bands?</text>
+        <answer id="A">Yes, for up to two years</answer>
+        <answer id="B">Yes, as soon as you apply for renewal</answer>
+        <answer id="C">Yes, for up to one year</answer>
+        <answer id="D">No, you must wait until the license has been renewed</answer>
+      </question>
+    </group>
+    <group id="T1D">
+      <description>T1D - Authorized and prohibited transmissions: communications with other countries, music, exchange of information with other services, indecent language, compensation for operating, retransmission of other amateur signals, encryption, sale of equipment, unidentified transmissions, one-way transmission</description>
+      <question id="T1D01" correct="A" section="97.111(a)(1)">
+        <text>With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?</text>
+        <answer id="A">Any country whose administration has notified the International Telecommunication Union (ITU) that it objects to such communications</answer>
+        <answer id="B">Any country whose administration has notified the American Radio Relay League (ARRL) that it objects to such communications</answer>
+        <answer id="C">Any country banned from such communications by the International Amateur Radio Union (IARU)</answer>
+        <answer id="D">Any country banned from making such communications by the American Radio Relay League (ARRL)</answer>
+      </question>
+      <question id="T1D02" correct="B" section="97.113(b), 97.111(b)">
+        <text>Under which of the following circumstances are one-way transmissions by an amateur station prohibited?</text>
+        <answer id="A">In all circumstances</answer>
+        <answer id="B">Broadcasting</answer>
+        <answer id="C">International Morse Code Practice</answer>
+        <answer id="D">Telecommand or transmissions of telemetry</answer>
+      </question>
+      <question id="T1D03" correct="C" section="97.211(b), 97.215(b), 97.113(a)(4)">
+        <text>When is it permissible to transmit messages encoded to obscure their meaning?</text>
+        <answer id="A">Only during contests</answer>
+        <answer id="B">Only when transmitting certain approved digital codes</answer>
+        <answer id="C">Only when transmitting control commands to space stations or radio control craft</answer>
+        <answer id="D">Never</answer>
+      </question>
+      <question id="T1D04" correct="A" section="97.113(a)(4), 97.113(c)">
+        <text>Under what conditions is an amateur station authorized to transmit music using a phone emission?</text>
+        <answer id="A">When incidental to an authorized retransmission of manned spacecraft communications</answer>
+        <answer id="B">When the music produces no spurious emissions</answer>
+        <answer id="C">When transmissions are limited to less than three minutes per hour</answer>
+        <answer id="D">When the music is transmitted above 1280 MHz</answer>
+      </question>
+      <question id="T1D05" correct="D" section="97.113(a)(3)(ii)">
+        <text>When may amateur radio operators use their stations to notify other amateurs of the availability of equipment for sale or trade?</text>
+        <answer id="A">Never</answer>
+        <answer id="B">When the equipment is not the personal property of either the station licensee, or the control operator, or their close relatives</answer>
+        <answer id="C">When no profit is made on the sale</answer>
+        <answer id="D">When selling amateur radio equipment and not on a regular basis</answer>
+      </question>
+      <question id="T1D06" correct="B" section="97.113(a)(4)">
+        <text>What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?</text>
+        <answer id="A">The FCC maintains a list of words that are not permitted to be used on amateur frequencies</answer>
+        <answer id="B">Any such language is prohibited</answer>
+        <answer id="C">The ITU maintains a list of words that are not permitted to be used on amateur frequencies</answer>
+        <answer id="D">There is no such prohibition</answer>
+      </question>
+      <question id="T1D07" correct="D" section="97.113(d)">
+        <text>What types of amateur stations can automatically retransmit the signals of other amateur stations?</text>
+        <answer id="A">Auxiliary, beacon, or Earth stations</answer>
+        <answer id="B">Earth, repeater, or space stations</answer>
+        <answer id="C">Beacon, repeater, or space stations</answer>
+        <answer id="D">Repeater, auxiliary, or space stations</answer>
+      </question>
+      <question id="T1D08" correct="B" section="97.113(a)(3)(iii)">
+        <text>In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station?</text>
+        <answer id="A">When the communication is related to the sale of amateur equipment by the control operator's employer</answer>
+        <answer id="B">When the communication is incidental to classroom instruction at an educational institution</answer>
+        <answer id="C">When the communication is made to obtain emergency information for a local broadcast station</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1D09" correct="A" section="97.113(5)(b)">
+        <text>When may amateur stations transmit information in support of broadcasting, program production, or news gathering, assuming no other means is available?</text>
+        <answer id="A">When such communications are directly related to the immediate safety of human life or protection of property</answer>
+        <answer id="B">When broadcasting communications to or from the space shuttle</answer>
+        <answer id="C">Where noncommercial programming is gathered and supplied exclusively to the National Public Radio network</answer>
+        <answer id="D">Never</answer>
+      </question>
+      <question id="T1D10" correct="D" section="97.3(a)(10)">
+        <text>How does the FCC define broadcasting for the Amateur Radio Service?</text>
+        <answer id="A">Two-way transmissions by amateur stations</answer>
+        <answer id="B">Any transmission made by the licensed station</answer>
+        <answer id="C">Transmission of messages directed only to amateur operators</answer>
+        <answer id="D">Transmissions intended for reception by the general public</answer>
+      </question>
+      <question id="T1D11" correct="D" section="97.119(a)">
+        <text>When may an amateur station transmit without identifying on the air?</text>
+        <answer id="A">When the transmissions are of a brief nature to make station adjustments</answer>
+        <answer id="B">When the transmissions are unmodulated</answer>
+        <answer id="C">When the transmitted power level is below 1 watt</answer>
+        <answer id="D">When transmitting signals to control model craft</answer>
+      </question>
+    </group>
+    <group id="T1E">
+      <description>T1E - Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote</description>
+      <question id="T1E01" correct="D" section="97.7(a)">
+        <text>When may an amateur station transmit without a control operator?</text>
+        <answer id="A">When using automatic control, such as in the case of a repeater</answer>
+        <answer id="B">When the station licensee is away and another licensed amateur is using the station</answer>
+        <answer id="C">When the transmitting station is an auxiliary station</answer>
+        <answer id="D">Never</answer>
+      </question>
+      <question id="T1E02" correct="D" section="97.301, 97.207(c)">
+        <text>Who may be the control operator of a station communicating through an amateur satellite or space station?</text>
+        <answer id="A">Only an Amateur Extra Class operator</answer>
+        <answer id="B">A General class or higher licensee with a satellite operator certification</answer>
+        <answer id="C">Only an Amateur Extra Class operator who is also an AMSAT member</answer>
+        <answer id="D">Any amateur allowed to transmit on the satellite uplink frequency</answer>
+      </question>
+      <question id="T1E03" correct="A" section="97.103(b)">
+        <text>Who must designate the station control operator?</text>
+        <answer id="A">The station licensee</answer>
+        <answer id="B">The FCC</answer>
+        <answer id="C">The frequency coordinator</answer>
+        <answer id="D">Any licensed operator</answer>
+      </question>
+      <question id="T1E04" correct="D" section="97.103(b)">
+        <text>What determines the transmitting frequency privileges of an amateur station?</text>
+        <answer id="A">The frequency authorized by the frequency coordinator</answer>
+        <answer id="B">The frequencies printed on the license grant</answer>
+        <answer id="C">The highest class of operator license held by anyone on the premises</answer>
+        <answer id="D">The class of operator license held by the control operator</answer>
+      </question>
+      <question id="T1E05" correct="C" section="97.3(a)(14)">
+        <text>What is an amateur station’s control point?</text>
+        <answer id="A">The location of the station’s transmitting antenna</answer>
+        <answer id="B">The location of the station’s transmitting apparatus</answer>
+        <answer id="C">The location at which the control operator function is performed</answer>
+        <answer id="D">The mailing address of the station licensee</answer>
+      </question>
+      <question id="T1E06" correct="A" section="97.301">
+        <text>When, under normal circumstances, may a Technician class licensee be the control operator of a station operating in an Amateur Extra Class band segment?</text>
+        <answer id="A">At no time</answer>
+        <answer id="B">When designated as the control operator by an Amateur Extra Class licensee</answer>
+        <answer id="C">As part of a multi-operator contest team</answer>
+        <answer id="D">When using a club station whose trustee holds an Amateur Extra Class license</answer>
+      </question>
+      <question id="T1E07" correct="D" section="97.103(a)">
+        <text>When the control operator is not the station licensee, who is responsible for the proper operation of the station?</text>
+        <answer id="A">All licensed amateurs who are present at the operation</answer>
+        <answer id="B">Only the station licensee</answer>
+        <answer id="C">Only the control operator</answer>
+        <answer id="D">The control operator and the station licensee</answer>
+      </question>
+      <question id="T1E08" correct="A" section="97.3(a)(6), 97.205(d)">
+        <text>Which of the following is an example of automatic control?</text>
+        <answer id="A">Repeater operation</answer>
+        <answer id="B">Controlling a station over the internet</answer>
+        <answer id="C">Using a computer or other device to send CW automatically</answer>
+        <answer id="D">Using a computer or other device to identify automatically</answer>
+      </question>
+      <question id="T1E09" correct="D" section="97.109(c)">
+        <text>Which of the following are required for remote control operation?</text>
+        <answer id="A">The control operator must be at the control point</answer>
+        <answer id="B">A control operator is required at all times</answer>
+        <answer id="C">The control operator must indirectly manipulate the controls</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1E10" correct="B" section="97.3(a)(39)">
+        <text>Which of the following is an example of remote control as defined in Part 97?</text>
+        <answer id="A">Repeater operation</answer>
+        <answer id="B">Operating the station over the internet</answer>
+        <answer id="C">Controlling a model aircraft, boat, or car by amateur radio</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1E11" correct="D" section="97.103(a)">
+        <text>Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in the station records?</text>
+        <answer id="A">The station custodian</answer>
+        <answer id="B">The third party participant</answer>
+        <answer id="C">The person operating the station equipment</answer>
+        <answer id="D">The station licensee</answer>
+      </question>
+    </group>
+    <group id="T1F">
+      <description>T1F - Station identification; Repeaters; Third party communications; Club stations; FCC inspection</description>
+      <question id="T1F01" correct="B" section="97.103(c)">
+        <text>When must the station and its records be available for FCC inspection?</text>
+        <answer id="A">At any time ten days after notification by the FCC of such an inspection</answer>
+        <answer id="B">At any time upon request by an FCC representative</answer>
+        <answer id="C">At any time after written notification by the FCC of such inspection</answer>
+        <answer id="D">Only when presented with a valid warrant by an FCC official or government agent</answer>
+      </question>
+      <question id="T1F02" correct="C" section="97.119 (a)">
+        <text>How often must you identify with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”?</text>
+        <answer id="A">Never, the tactical call is sufficient</answer>
+        <answer id="B">Once during every hour</answer>
+        <answer id="C">At the end of each communication and every ten minutes during a communication</answer>
+        <answer id="D">At the end of every transmission</answer>
+      </question>
+      <question id="T1F03" correct="D" section="97.119(a)">
+        <text>When are you required to transmit your assigned call sign?</text>
+        <answer id="A">At the beginning of each contact, and every 10 minutes thereafter</answer>
+        <answer id="B">At least once during each transmission</answer>
+        <answer id="C">At least every 15 minutes during and at the end of a communication</answer>
+        <answer id="D">At least every 10 minutes during and at the end of a communication</answer>
+      </question>
+      <question id="T1F04" correct="C" section="97.119(b)(2)">
+        <text>What language may you use for identification when operating in a phone sub-band?</text>
+        <answer id="A">Any language recognized by the United Nations</answer>
+        <answer id="B">Any language recognized by the ITU</answer>
+        <answer id="C">English</answer>
+        <answer id="D">English, French, or Spanish</answer>
+      </question>
+      <question id="T1F05" correct="B" section="97.119(b)(2)">
+        <text>What method of call sign identification is required for a station transmitting phone signals?</text>
+        <answer id="A">Send the call sign followed by the indicator RPT</answer>
+        <answer id="B">Send the call sign using a CW or phone emission</answer>
+        <answer id="C">Send the call sign followed by the indicator R</answer>
+        <answer id="D">Send the call sign using only a phone emission</answer>
+      </question>
+      <question id="T1F06" correct="D" section="97.119(c)">
+        <text>Which of the following self-assigned indicators are acceptable when using a phone transmission?</text>
+        <answer id="A">KL7CC stroke W3</answer>
+        <answer id="B">KL7CC slant W3</answer>
+        <answer id="C">KL7CC slash W3</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1F07" correct="B" section="97.115(a)(2)">
+        <text>Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?</text>
+        <answer id="A">The person must be a U.S. citizen</answer>
+        <answer id="B">The foreign station must be in a country with which the U.S. has a third party agreement</answer>
+        <answer id="C">The licensed control operator must do the station identification</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T1F08" correct="A" section="97.3(a)(47)">
+        <text>What is the definition of third party communications?</text>
+        <answer id="A">A message from a control operator to another amateur station control operator on behalf of another person</answer>
+        <answer id="B">Amateur radio communications where three stations are in communications with one another</answer>
+        <answer id="C">Operation when the transmitting equipment is licensed to a person other than the control operator</answer>
+        <answer id="D">Temporary authorization for an unlicensed person to transmit on the amateur bands for technical experiments</answer>
+      </question>
+      <question id="T1F09" correct="C" section="97.3(a)(40)">
+        <text>What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?</text>
+        <answer id="A">Beacon station</answer>
+        <answer id="B">Earth station</answer>
+        <answer id="C">Repeater station</answer>
+        <answer id="D">Message forwarding station</answer>
+      </question>
+      <question id="T1F10" correct="A" section="97.205(g)">
+        <text>Who is accountable if a repeater inadvertently retransmits communications that violate the FCC rules?</text>
+        <answer id="A">The control operator of the originating station</answer>
+        <answer id="B">The control operator of the repeater</answer>
+        <answer id="C">The owner of the repeater</answer>
+        <answer id="D">Both the originating station and the repeater owner</answer>
+      </question>
+      <question id="T1F11" correct="B" section="97.5(b)(2)">
+        <text>Which of the following is a requirement for the issuance of a club station license grant?</text>
+        <answer id="A">The trustee must have an Amateur Extra Class operator license grant</answer>
+        <answer id="B">The club must have at least four members</answer>
+        <answer id="C">The club must be registered with the American Radio Relay League</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T2">
+    <description>SUBELEMENT T2 - OPERATING PROCEDURES - [3 Exam Questions - 3 Groups]</description>
+    <group id="T2A">
+      <description>T2A - Station operation: choosing an operating frequency, calling another station, test transmissions; Band plans: calling frequencies, repeater offsets</description>
+      <question id="T2A01" correct="B">
+        <text>What is a common repeater frequency offset in the 2 meter band?</text>
+        <answer id="A">Plus or minus 5 MHz</answer>
+        <answer id="B">Plus or minus 600 kHz</answer>
+        <answer id="C">Plus or minus 500 kHz</answer>
+        <answer id="D">Plus or minus 1 MHz</answer>
+      </question>
+      <question id="T2A02" correct="A">
+        <text>What is the national calling frequency for FM simplex operations in the 2 meter band?</text>
+        <answer id="A">146.520 MHz</answer>
+        <answer id="B">145.000 MHz</answer>
+        <answer id="C">432.100 MHz</answer>
+        <answer id="D">446.000 MHz</answer>
+      </question>
+      <question id="T2A03" correct="A">
+        <text>What is a common repeater frequency offset in the 70 cm band?</text>
+        <answer id="A">Plus or minus 5 MHz</answer>
+        <answer id="B">Plus or minus 600 kHz</answer>
+        <answer id="C">Plus or minus 500 kHz</answer>
+        <answer id="D">Plus or minus 1 MHz</answer>
+      </question>
+      <question id="T2A04" correct="B">
+        <text>What is an appropriate way to call another station on a repeater if you know the other station's call sign?</text>
+        <answer id="A">Say "break, break," then say the station's call sign</answer>
+        <answer id="B">Say the station's call sign, then identify with your call sign</answer>
+        <answer id="C">Say "CQ" three times, then the other station's call sign</answer>
+        <answer id="D">Wait for the station to call CQ, then answer</answer>
+      </question>
+      <question id="T2A05" correct="C">
+        <text>How should you respond to a station calling CQ?</text>
+        <answer id="A">Transmit "CQ" followed by the other station’s call sign</answer>
+        <answer id="B">Transmit your call sign followed by the other station’s call sign</answer>
+        <answer id="C">Transmit the other station’s call sign followed by your call sign</answer>
+        <answer id="D">Transmit a signal report followed by your call sign</answer>
+      </question>
+      <question id="T2A06" correct="A">
+        <text>Which of the following is required when making on-the-air test transmissions?</text>
+        <answer id="A">Identify the transmitting station</answer>
+        <answer id="B">Conduct tests only between 10 p.m. and 6 a.m. local time</answer>
+        <answer id="C">Notify the FCC of the transmissions</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2A07" correct="A">
+        <text>What is meant by "repeater offset”?</text>
+        <answer id="A">The difference between a repeater’s transmit and receive frequencies</answer>
+        <answer id="B">The repeater has a time delay to prevent interference</answer>
+        <answer id="C">The repeater station identification is done on a separate frequency</answer>
+        <answer id="D">The number of simultaneous transmit frequencies used by a repeater</answer>
+      </question>
+      <question id="T2A08" correct="D">
+        <text>What is the meaning of the procedural signal “CQ”?</text>
+        <answer id="A">Call on the quarter hour</answer>
+        <answer id="B">Test transmission, no reply expected</answer>
+        <answer id="C">Only the called station should transmit</answer>
+        <answer id="D">Calling any station</answer>
+      </question>
+      <question id="T2A09" correct="B">
+        <text>Which of the following indicates that a station is listening on a repeater and looking for a contact?</text>
+        <answer id="A">“CQ CQ” followed by the repeater’s call sign</answer>
+        <answer id="B">The station’s call sign followed by the word “monitoring”</answer>
+        <answer id="C">The repeater call sign followed by the station’s call sign</answer>
+        <answer id="D">“QSY” followed by your call sign</answer>
+      </question>
+      <question id="T2A10" correct="A">
+        <text>What is a band plan, beyond the privileges established by the FCC?</text>
+        <answer id="A">A voluntary guideline for using different modes or activities within an amateur band</answer>
+        <answer id="B">A list of operating schedules</answer>
+        <answer id="C">A list of available net frequencies</answer>
+        <answer id="D">A plan devised by a club to indicate frequency band usage</answer>
+      </question>
+      <question id="T2A11" correct="C">
+        <text>What term describes an amateur station that is transmitting and receiving on the same frequency?</text>
+        <answer id="A">Full duplex</answer>
+        <answer id="B">Diplex</answer>
+        <answer id="C">Simplex</answer>
+        <answer id="D">Multiplex</answer>
+      </question>
+      <question id="T2A12" correct="D">
+        <text>What should you do before calling CQ?  </text>
+        <answer id="A">Listen first to be sure that no one else is using the frequency</answer>
+        <answer id="B">Ask if the frequency is in use</answer>
+        <answer id="C">Make sure you are authorized to use that frequency</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+    </group>
+    <group id="T2B">
+      <description>T2B – VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR operation; Resolving operational problems; Q signals</description>
+      <question id="T2B01" correct="C">
+        <text>How is a VHF/UHF transceiver’s “reverse” function used?</text>
+        <answer id="A">To reduce power output</answer>
+        <answer id="B">To increase power output</answer>
+        <answer id="C">To listen on a repeater’s input frequency</answer>
+        <answer id="D">To listen on a repeater’s output frequency</answer>
+      </question>
+      <question id="T2B02" correct="D">
+        <text>What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?</text>
+        <answer id="A">Carrier squelch</answer>
+        <answer id="B">Tone burst</answer>
+        <answer id="C">DTMF</answer>
+        <answer id="D">CTCSS</answer>
+      </question>
+      <question id="T2B03" correct="A">
+        <text>Which of the following describes a linked repeater network?</text>
+        <answer id="A">A network of repeaters in which signals received by one repeater are transmitted by all the repeaters in the network</answer>
+        <answer id="B">A single repeater with more than one receiver</answer>
+        <answer id="C">Multiple repeaters with the same control operator</answer>
+        <answer id="D">A system of repeaters linked by APRS</answer>
+      </question>
+      <question id="T2B04" correct="D">
+        <text>Which of the following could be the reason you are unable to access a repeater whose output you can hear?</text>
+        <answer id="A">Improper transceiver offset</answer>
+        <answer id="B">You are using the wrong CTCSS tone</answer>
+        <answer id="C">You are using the wrong DCS code</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2B05" correct="C">
+        <text>What would cause your FM transmission audio to be distorted on voice peaks?</text>
+        <answer id="A">Your repeater offset is inverted</answer>
+        <answer id="B">You need to talk louder</answer>
+        <answer id="C">You are talking too loudly</answer>
+        <answer id="D">Your transmit power is too high</answer>
+      </question>
+      <question id="T2B06" correct="A">
+        <text>What type of signaling uses pairs of audio tones?</text>
+        <answer id="A">DTMF</answer>
+        <answer id="B">CTCSS</answer>
+        <answer id="C">GPRS</answer>
+        <answer id="D">D-STAR</answer>
+      </question>
+      <question id="T2B07" correct="C">
+        <text>How can you join a digital repeater’s “talkgroup”?</text>
+        <answer id="A">Register your radio with the local FCC office</answer>
+        <answer id="B">Join the repeater owner’s club</answer>
+        <answer id="C">Program your radio with the group’s ID or code</answer>
+        <answer id="D">Sign your call after the courtesy tone</answer>
+      </question>
+      <question id="T2B08" correct="A">
+        <text>Which of the following applies when two stations transmitting on the same frequency interfere with each other?</text>
+        <answer id="A">The stations should negotiate continued use of the frequency</answer>
+        <answer id="B">Both stations should choose another frequency to avoid conflict</answer>
+        <answer id="C">Interference is inevitable, so no action is required</answer>
+        <answer id="D">Use subaudible tones so both stations can share the frequency</answer>
+      </question>
+      <question id="T2B09" correct="A">
+        <text>Why are simplex channels designated in the VHF/UHF band plans?</text>
+        <answer id="A">So stations within range of each other can communicate without tying up a repeater</answer>
+        <answer id="B">For contest operation</answer>
+        <answer id="C">For working DX only</answer>
+        <answer id="D">So stations with simple transmitters can access the repeater without automated offset</answer>
+      </question>
+      <question id="T2B10" correct="A">
+        <text>Which Q signal indicates that you are receiving interference from other stations?</text>
+        <answer id="A">QRM</answer>
+        <answer id="B">QRN</answer>
+        <answer id="C">QTH</answer>
+        <answer id="D">QSB</answer>
+      </question>
+      <question id="T2B11" correct="B">
+        <text>Which Q signal indicates that you are changing frequency?</text>
+        <answer id="A">QRU</answer>
+        <answer id="B">QSY</answer>
+        <answer id="C">QSL</answer>
+        <answer id="D">QRZ</answer>
+      </question>
+      <question id="T2B12" correct="A">
+        <text>What is the purpose of the color code used on DMR repeater systems?</text>
+        <answer id="A">Must match the repeater color code for access</answer>
+        <answer id="B">Defines the frequency pair to use</answer>
+        <answer id="C">Identifies the codec used</answer>
+        <answer id="D">Defines the minimum signal level required for access</answer>
+      </question>
+      <question id="T2B13" correct="B">
+        <text>What is the purpose of a squelch function?</text>
+        <answer id="A">Reduce a CW transmitter's key clicks</answer>
+        <answer id="B">Mute the receiver audio when a signal is not present</answer>
+        <answer id="C">Eliminate parasitic oscillations in an RF amplifier</answer>
+        <answer id="D">Reduce interference from impulse noise</answer>
+      </question>
+    </group>
+    <group id="T2C">
+      <description>T2C – Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic procedures, operating restrictions during emergencies, use of phonetics in message handling</description>
+      <question id="T2C01" correct="D" section="97.103(a)">
+        <text>When do FCC rules NOT apply to the operation of an amateur station?</text>
+        <answer id="A">When operating a RACES station</answer>
+        <answer id="B">When operating under special FEMA rules</answer>
+        <answer id="C">When operating under special ARES rules</answer>
+        <answer id="D">FCC rules always apply</answer>
+      </question>
+      <question id="T2C02" correct="C" >
+        <text>Which of the following are typical duties of a Net Control Station?</text>
+        <answer id="A">Choose the regular net meeting time and frequency</answer>
+        <answer id="B">Ensure that all stations checking into the net are properly licensed for operation on the net frequency</answer>
+        <answer id="C">Call the net to order and direct communications between stations checking in</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2C03" correct="C">
+        <text>What technique is used to ensure that voice messages containing unusual words are received correctly?</text>
+        <answer id="A">Send the words by voice and Morse code</answer>
+        <answer id="B">Speak very loudly into the microphone</answer>
+        <answer id="C">Spell the words using a standard phonetic alphabet</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2C04" correct="D">
+        <text>What is RACES?</text>
+        <answer id="A">An emergency organization combining amateur radio and citizens band operators and frequencies</answer>
+        <answer id="B">An international radio experimentation society</answer>
+        <answer id="C">A radio contest held in a short period, sometimes called a “sprint”</answer>
+        <answer id="D">An FCC part 97 amateur radio service for civil defense communications during national emergencies</answer>
+      </question>
+      <question id="T2C05" correct="A">
+        <text>What does the term “traffic” refer to in net operation?</text>
+        <answer id="A">Messages exchanged by net stations</answer>
+        <answer id="B">The number of stations checking in and out of a net</answer>
+        <answer id="C">Operation by mobile or portable stations</answer>
+        <answer id="D">Requests to activate the net by a served agency</answer>
+      </question>
+      <question id="T2C06" correct="A">
+        <text>What is the Amateur Radio Emergency Service (ARES)?</text>
+        <answer id="A">A group of licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service</answer>
+        <answer id="B">A group of licensed amateurs who are members of the military and who voluntarily agreed to provide message handling services in the case of an emergency</answer>
+        <answer id="C">A training program that provides licensing courses for those interested in obtaining an amateur license to use during emergencies</answer>
+        <answer id="D">A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service</answer>
+      </question>
+      <question id="T2C07" correct="C">
+        <text>Which of the following is standard practice when you participate in a net?</text>
+        <answer id="A">When first responding to the net control station, transmit your call sign, name, and address as in the FCC database</answer>
+        <answer id="B">Record the time of each of your transmissions</answer>
+        <answer id="C">Unless you are reporting an emergency, transmit only when directed by the net control station</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2C08" correct="A">
+        <text>Which of the following is a characteristic of good traffic handling?</text>
+        <answer id="A">Passing messages exactly as received</answer>
+        <answer id="B">Making decisions as to whether messages are worthy of relay or delivery</answer>
+        <answer id="C">Ensuring that any newsworthy messages are relayed to the news media</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T2C09" correct="D">
+        <text>Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?</text>
+        <answer id="A">No</answer>
+        <answer id="B">Yes, but only when part of a FEMA emergency plan</answer>
+        <answer id="C">Yes, but only when part of a RACES emergency plan</answer>
+        <answer id="D">Yes, but only in situations involving the immediate safety of human life or protection of property</answer>
+      </question>
+      <question id="T2C10" correct="D">
+        <text>What information is contained in the preamble of a formal traffic message?</text>
+        <answer id="A">The email address of the originating station</answer>
+        <answer id="B">The address of the intended recipient</answer>
+        <answer id="C">The telephone number of the addressee</answer>
+        <answer id="D">Information needed to track the message</answer>
+      </question>
+      <question id="T2C11" correct="A">
+        <text>What is meant by “check” in a radiogram header?</text>
+        <answer id="A">The number of words or word equivalents in the text portion of the message</answer>
+        <answer id="B">The call sign of the originating station</answer>
+        <answer id="C">A list of stations that have relayed the message</answer>
+        <answer id="D">A box on the message form that indicates that the message was received and/or relayed</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T3">
+    <description>SUBELEMENT T3 – RADIO WAVE PROPAGATION – [3 Exam Questions - 3 Groups]</description>
+    <group id="T3A">
+      <description>T3A - Radio wave characteristics: how a radio signal travels, fading, multipath, polarization, wavelength vs absorption; Antenna orientation</description>
+      <question id="T3A01" correct="C">
+        <text>Why do VHF signal strengths sometimes vary greatly when the antenna is moved only a few feet?</text>
+        <answer id="A">The signal path encounters different concentrations of water vapor</answer>
+        <answer id="B">VHF ionospheric propagation is very sensitive to path length</answer>
+        <answer id="C">Multipath propagation cancels or reinforces signals</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T3A02" correct="B">
+        <text>What is the effect of vegetation on UHF and microwave signals?</text>
+        <answer id="A">Knife-edge diffraction</answer>
+        <answer id="B">Absorption</answer>
+        <answer id="C">Amplification</answer>
+        <answer id="D">Polarization rotation</answer>
+      </question>
+      <question id="T3A03" correct="C">
+        <text>What antenna polarization is normally used for long-distance CW and SSB contacts on the VHF and UHF bands?</text>
+        <answer id="A">Right-hand circular</answer>
+        <answer id="B">Left-hand circular</answer>
+        <answer id="C">Horizontal</answer>
+        <answer id="D">Vertical</answer>
+      </question>
+      <question id="T3A04" correct="B">
+        <text>What happens when antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same polarization?</text>
+        <answer id="A">The modulation sidebands might become inverted</answer>
+        <answer id="B">Received signal strength is reduced</answer>
+        <answer id="C">Signals have an echo effect</answer>
+        <answer id="D">Nothing significant will happen</answer>
+      </question>
+      <question id="T3A05" correct="B">
+        <text>When using a directional antenna, how might your station be able to communicate with a distant repeater if buildings or obstructions are blocking the direct line of sight path?</text>
+        <answer id="A">Change from vertical to horizontal polarization</answer>
+        <answer id="B">Try to find a path that reflects signals to the repeater</answer>
+        <answer id="C">Try the long path</answer>
+        <answer id="D">Increase the antenna SWR</answer>
+      </question>
+      <question id="T3A06" correct="B">
+        <text>What is the meaning of the term “picket fencing”?</text>
+        <answer id="A">Alternating transmissions during a net operation</answer>
+        <answer id="B">Rapid flutter on mobile signals due to multipath propagation</answer>
+        <answer id="C">A type of ground system used with vertical antennas</answer>
+        <answer id="D">Local vs long-distance communications</answer>
+      </question>
+      <question id="T3A07" correct="C">
+        <text>What weather condition might decrease range at microwave frequencies?</text>
+        <answer id="A">High winds</answer>
+        <answer id="B">Low barometric pressure</answer>
+        <answer id="C">Precipitation</answer>
+        <answer id="D">Colder temperatures</answer>
+      </question>
+      <question id="T3A08" correct="D">
+        <text>What is a likely cause of irregular fading of signals propagated by the ionosphere?</text>
+        <answer id="A">Frequency shift due to Faraday rotation</answer>
+        <answer id="B">Interference from thunderstorms</answer>
+        <answer id="C">Intermodulation distortion</answer>
+        <answer id="D">Random combining of signals arriving via different paths</answer>
+      </question>
+      <question id="T3A09" correct="B">
+        <text>Which of the following results from the fact that signals propagated by the ionosphere are elliptically polarized?</text>
+        <answer id="A">Digital modes are unusable</answer>
+        <answer id="B">Either vertically or horizontally polarized antennas may be used for transmission or reception</answer>
+        <answer id="C">FM voice is unusable</answer>
+        <answer id="D">Both the transmitting and receiving antennas must be of the same polarization</answer>
+      </question>
+      <question id="T3A10" correct="D">
+        <text>What effect does multi-path propagation have on data transmissions?</text>
+        <answer id="A">Transmission rates must be increased by a factor equal to the number of separate paths observed</answer>
+        <answer id="B">Transmission rates must be decreased by a factor equal to the number of separate paths observed</answer>
+        <answer id="C">No significant changes will occur if the signals are transmitted using FM</answer>
+        <answer id="D">Error rates are likely to increase</answer>
+      </question>
+      <question id="T3A11" correct="C">
+        <text>Which region of the atmosphere can refract or bend HF and VHF radio waves?</text>
+        <answer id="A">The stratosphere</answer>
+        <answer id="B">The troposphere</answer>
+        <answer id="C">The ionosphere</answer>
+        <answer id="D">The mesosphere</answer>
+      </question>
+      <question id="T3A12" correct="B">
+        <text>What is the effect of fog and rain on signals in the 10 meter and 6 meter bands?</text>
+        <answer id="A">Absorption</answer>
+        <answer id="B">There is little effect</answer>
+        <answer id="C">Deflection</answer>
+        <answer id="D">Range increase</answer>
+      </question>
+    </group>
+    <group id="T3B">
+      <description>T3B - Electromagnetic wave properties: wavelength vs frequency, nature and velocity of electromagnetic waves, relationship of wavelength and frequency; Electromagnetic spectrum definitions: UHF, VHF, HF</description>
+      <question id="T3B01" correct="D">
+        <text>What is the relationship between the electric and magnetic fields of an electromagnetic wave?</text>
+        <answer id="A">They travel at different speeds</answer>
+        <answer id="B">They are in parallel</answer>
+        <answer id="C">They revolve in opposite directions</answer>
+        <answer id="D">They are at right angles</answer>
+      </question>
+      <question id="T3B02" correct="A">
+        <text>What property of a radio wave defines its polarization?</text>
+        <answer id="A">The orientation of the electric field</answer>
+        <answer id="B">The orientation of the magnetic field</answer>
+        <answer id="C">The ratio of the energy in the magnetic field to the energy in the electric field</answer>
+        <answer id="D">The ratio of the velocity to the wavelength</answer>
+      </question>
+      <question id="T3B03" correct="C">
+        <text>What are the two components of a radio wave?</text>
+        <answer id="A">Impedance and reactance</answer>
+        <answer id="B">Voltage and current</answer>
+        <answer id="C">Electric and magnetic fields</answer>
+        <answer id="D">Ionizing and non-ionizing radiation</answer>
+      </question>
+      <question id="T3B04" correct="A">
+        <text>What is the velocity of a radio wave traveling through free space?</text>
+        <answer id="A">Speed of light</answer>
+        <answer id="B">Speed of sound</answer>
+        <answer id="C">Speed inversely proportional to its wavelength</answer>
+        <answer id="D">Speed that increases as the frequency increases</answer>
+      </question>
+      <question id="T3B05" correct="B">
+        <text>What is the relationship between wavelength and frequency?</text>
+        <answer id="A">Wavelength gets longer as frequency increases</answer>
+        <answer id="B">Wavelength gets shorter as frequency increases</answer>
+        <answer id="C">Wavelength and frequency are unrelated</answer>
+        <answer id="D">Wavelength and frequency increase as path length increases</answer>
+      </question>
+      <question id="T3B06" correct="D">
+        <text>What is the formula for converting frequency to approximate wavelength in meters?</text>
+        <answer id="A">Wavelength in meters equals frequency in hertz multiplied by 300</answer>
+        <answer id="B">Wavelength in meters equals frequency in hertz divided by 300</answer>
+        <answer id="C">Wavelength in meters equals frequency in megahertz divided by 300</answer>
+        <answer id="D">Wavelength in meters equals 300 divided by frequency in megahertz</answer>
+      </question>
+      <question id="T3B07" correct="A">
+        <text>In addition to frequency, which of the following is used to identify amateur radio bands?</text>
+        <answer id="A">The approximate wavelength in meters</answer>
+        <answer id="B">Traditional letter/number designators</answer>
+        <answer id="C">Channel numbers</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T3B08" correct="B">
+        <text>What frequency range is referred to as VHF?</text>
+        <answer id="A">30 kHz to 300 kHz</answer>
+        <answer id="B">30 MHz to 300 MHz</answer>
+        <answer id="C">300 kHz to 3000 kHz</answer>
+        <answer id="D">300 MHz to 3000 MHz</answer>
+      </question>
+      <question id="T3B09" correct="D">
+        <text>What frequency range is referred to as UHF?</text>
+        <answer id="A">30 to 300 kHz</answer>
+        <answer id="B">30 to 300 MHz</answer>
+        <answer id="C">300 to 3000 kHz</answer>
+        <answer id="D">300 to 3000 MHz</answer>
+      </question>
+      <question id="T3B10" correct="C">
+        <text>What frequency range is referred to as HF?</text>
+        <answer id="A">300 to 3000 MHz</answer>
+        <answer id="B">30 to 300 MHz</answer>
+        <answer id="C">3 to 30 MHz</answer>
+        <answer id="D">300 to 3000 kHz</answer>
+      </question>
+      <question id="T3B11" correct="B">
+        <text>What is the approximate velocity of a radio wave in free space?</text>
+        <answer id="A">150,000 meters per second</answer>
+        <answer id="B">300,000,000 meters per second</answer>
+        <answer id="C">300,000,000 miles per hour</answer>
+        <answer id="D">150,000 miles per hour</answer>
+      </question>
+    </group>
+    <group id="T3C">
+      <description>T3C - Propagation modes: sporadic E, meteor scatter, auroral propagation, tropospheric ducting; F region skip; Line of sight and radio horizon</description>
+      <question id="T3C01" correct="C">
+        <text>Why are simplex UHF signals rarely heard beyond their radio horizon?</text>
+        <answer id="A">They are too weak to go very far</answer>
+        <answer id="B">FCC regulations prohibit them from going more than 50 miles</answer>
+        <answer id="C">UHF signals are usually not propagated by the ionosphere</answer>
+        <answer id="D">UHF signals are absorbed by the ionospheric D region</answer>
+      </question>
+      <question id="T3C02" correct="C">
+        <text>What is a characteristic of HF communication compared with communications on VHF and higher frequencies?</text>
+        <answer id="A">HF antennas are generally smaller</answer>
+        <answer id="B">HF accommodates wider bandwidth signals</answer>
+        <answer id="C">Long-distance ionospheric propagation is far more common on HF</answer>
+        <answer id="D">There is less atmospheric interference (static) on HF</answer>
+      </question>
+      <question id="T3C03" correct="B">
+        <text>What is a characteristic of VHF signals received via auroral backscatter?</text>
+        <answer id="A">They are often received from 10,000 miles or more</answer>
+        <answer id="B">They are distorted and signal strength varies considerably</answer>
+        <answer id="C">They occur only during winter nighttime hours</answer>
+        <answer id="D">They are generally strongest when your antenna is aimed west</answer>
+      </question>
+      <question id="T3C04" correct="B">
+        <text>Which of the following types of propagation is most commonly associated with occasional strong signals on the 10, 6, and 2 meter bands from beyond the radio horizon?</text>
+        <answer id="A">Backscatter</answer>
+        <answer id="B">Sporadic E</answer>
+        <answer id="C">D region absorption</answer>
+        <answer id="D">Gray-line propagation</answer>
+      </question>
+      <question id="T3C05" correct="A">
+        <text>Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?</text>
+        <answer id="A">Knife-edge diffraction</answer>
+        <answer id="B">Faraday rotation</answer>
+        <answer id="C">Quantum tunneling</answer>
+        <answer id="D">Doppler shift</answer>
+      </question>
+      <question id="T3C06" correct="A">
+        <text>What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?</text>
+        <answer id="A">Tropospheric ducting</answer>
+        <answer id="B">D region refraction</answer>
+        <answer id="C">F2 region refraction</answer>
+        <answer id="D">Faraday rotation</answer>
+      </question>
+      <question id="T3C07" correct="B">
+        <text>What band is best suited for communicating via meteor scatter?</text>
+        <answer id="A">33 centimeters</answer>
+        <answer id="B">6 meters</answer>
+        <answer id="C">2 meters</answer>
+        <answer id="D">70 centimeters</answer>
+      </question>
+      <question id="T3C08" correct="D">
+        <text>What causes tropospheric ducting?</text>
+        <answer id="A">Discharges of lightning during electrical storms</answer>
+        <answer id="B">Sunspots and solar flares</answer>
+        <answer id="C">Updrafts from hurricanes and tornadoes</answer>
+        <answer id="D">Temperature inversions in the atmosphere</answer>
+      </question>
+      <question id="T3C09" correct="A">
+        <text>What is generally the best time for long-distance 10 meter band propagation via the F region?</text>
+        <answer id="A">From dawn to shortly after sunset during periods of high sunspot activity</answer>
+        <answer id="B">From shortly after sunset to dawn during periods of high sunspot activity</answer>
+        <answer id="C">From dawn to shortly after sunset during periods of low sunspot activity</answer>
+        <answer id="D">From shortly after sunset to dawn during periods of low sunspot activity</answer>
+      </question>
+      <question id="T3C10" correct="A">
+        <text>Which of the following bands may provide long-distance communications via the ionosphere’s F region during the peak of the sunspot cycle?</text>
+        <answer id="A">6 and 10 meters</answer>
+        <answer id="B">23 centimeters</answer>
+        <answer id="C">70 centimeters and 1.25 meters</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T3C11" correct="C">
+        <text>Why is the radio horizon for VHF and UHF signals more distant than the visual horizon?</text>
+        <answer id="A">Radio signals move somewhat faster than the speed of light</answer>
+        <answer id="B">Radio waves are not blocked by dust particles</answer>
+        <answer id="C">The atmosphere refracts radio waves slightly</answer>
+        <answer id="D">Radio waves are blocked by dust particles</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T4">
+    <description>SUBELEMENT T4 – AMATEUR RADIO PRACTICES – [2 Exam Questions - 2 Groups]</description>
+    <group id="T4A">
+      <description>T4A – Station setup: connecting a microphone, a power source, a computer, digital equipment, an SWR meter; bonding; Mobile radio installation</description>
+      <question id="T4A01" correct="D">
+        <text>Which of the following is an appropriate power supply rating for a typical 50 watt output mobile FM transceiver?</text>
+        <answer id="A">24.0 volts at 4 amperes</answer>
+        <answer id="B">13.8 volts at 4 amperes</answer>
+        <answer id="C">24.0 volts at 12 amperes</answer>
+        <answer id="D">13.8 volts at 12 amperes</answer>
+      </question>
+      <question id="T4A02" correct="A">
+        <text>Which of the following should be considered when selecting an accessory SWR meter?</text>
+        <answer id="A">The frequency and power level at which the measurements will be made</answer>
+        <answer id="B">The distance that the meter will be located from the antenna</answer>
+        <answer id="C">The types of modulation being used at the station</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T4A03" correct="A">
+        <text>Why are short, heavy-gauge wires used for a transceiver’s DC power connection?</text>
+        <answer id="A">To minimize voltage drop when transmitting</answer>
+        <answer id="B">To provide a good counterpoise for the antenna</answer>
+        <answer id="C">To avoid RF interference</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T4A04" correct="B">
+        <text>How are the transceiver audio input and output connected in a station configured to operate using FT8?</text>
+        <answer id="A">To a computer running a terminal program and connected to a terminal node controller unit</answer>
+        <answer id="B">To the audio input and output of a computer running WSJT-X software</answer>
+        <answer id="C">To an FT8 conversion unit, a keyboard, and a computer monitor</answer>
+        <answer id="D">To a computer connected to the FT8converter.com website</answer>
+      </question>
+      <question id="T4A05" correct="A">
+        <text>Where should an RF power meter be installed?</text>
+        <answer id="A">In the feed line, between the transmitter and antenna</answer>
+        <answer id="B">At the power supply output</answer>
+        <answer id="C">In parallel with the push-to-talk line and the antenna</answer>
+        <answer id="D">In the power supply cable, as close as possible to the radio</answer>
+      </question>
+      <question id="T4A06" correct="C">
+        <text>What signals are used in a computer-radio interface for digital mode operation?</text>
+        <answer id="A">Receive and transmit mode, status, and location</answer>
+        <answer id="B">Antenna and RF power</answer>
+        <answer id="C">Receive audio, transmit audio, and transmitter keying</answer>
+        <answer id="D">NMEA GPS location and DC power</answer>
+      </question>
+      <question id="T4A07" correct="C">
+        <text>Which of the following connections is made between a computer and a transceiver to use computer software when operating digital modes?</text>
+        <answer id="A">Computer “line out” to transceiver push-to-talk</answer>
+        <answer id="B">Computer “line in” to transceiver push-to-talk</answer>
+        <answer id="C">Computer “line in” to transceiver speaker connector</answer>
+        <answer id="D">Computer “line out” to transceiver speaker connector</answer>
+      </question>
+      <question id="T4A08" correct="D">
+        <text>Which of the following conductors is preferred for bonding at RF?</text>
+        <answer id="A">Copper braid removed from coaxial cable</answer>
+        <answer id="B">Steel wire</answer>
+        <answer id="C">Twisted-pair cable</answer>
+        <answer id="D">Flat copper strap</answer>
+      </question>
+      <question id="T4A09" correct="B">
+        <text>How can you determine the length of time that equipment can be powered from a battery?</text>
+        <answer id="A">Divide the watt-hour rating of the battery by the peak power consumption of the equipment</answer>
+        <answer id="B">Divide the battery ampere-hour rating by the average current draw of the equipment</answer>
+        <answer id="C">Multiply the watts per hour consumed by the equipment by the battery power rating</answer>
+        <answer id="D">Multiply the square of the current rating of the battery by the input resistance of the equipment</answer>
+      </question>
+      <question id="T4A10" correct="A">
+        <text>What function is performed with a transceiver and a digital mode hot spot?</text>
+        <answer id="A">Communication using digital voice or data systems via the internet</answer>
+        <answer id="B">FT8 digital communications via AFSK</answer>
+        <answer id="C">RTTY encoding and decoding without a computer</answer>
+        <answer id="D">High-speed digital communications for meteor scatter</answer>
+      </question>
+      <question id="T4A11" correct="A">
+        <text>Where should the negative power return of a mobile transceiver be connected in a vehicle?</text>
+        <answer id="A">At the 12 volt battery chassis ground</answer>
+        <answer id="B">At the antenna mount</answer>
+        <answer id="C">To any metal part of the vehicle</answer>
+        <answer id="D">Through the transceiver’s mounting bracket</answer>
+      </question>
+      <question id="T4A12" correct="C">
+        <text>What is an electronic keyer?</text>
+        <answer id="A">A device for switching antennas from transmit to receive</answer>
+        <answer id="B">A device for voice activated switching from receive to transmit</answer>
+        <answer id="C">A device that assists in manual sending of Morse code</answer>
+        <answer id="D">An interlock to prevent unauthorized use of a radio</answer>
+      </question>
+    </group>
+    <group id="T4B">
+      <description>T4B - Operating controls: frequency tuning, use of filters, squelch function, AGC, memory channels, noise blanker, microphone gain, receiver incremental tuning (RIT), bandwidth selection, digital transceiver configuration</description>
+      <question id="T4B01" correct="B">
+        <text>What is the effect of excessive microphone gain on SSB transmissions?</text>
+        <answer id="A">Frequency instability</answer>
+        <answer id="B">Distorted transmitted audio</answer>
+        <answer id="C">Increased SWR</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T4B02" correct="A">
+        <text>Which of the following can be used to enter a transceiver’s operating frequency?</text>
+        <answer id="A">The keypad or VFO knob</answer>
+        <answer id="B">The CTCSS or DTMF encoder</answer>
+        <answer id="C">The Automatic Frequency Control</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T4B03" correct="A">
+        <text>How is squelch adjusted so that a weak FM signal can be heard?</text>
+        <answer id="A">Set the squelch threshold so that receiver output audio is on all the time</answer>
+        <answer id="B">Turn up the audio level until it overcomes the squelch threshold</answer>
+        <answer id="C">Turn on the anti-squelch function</answer>
+        <answer id="D">Enable squelch enhancement</answer>
+      </question>
+      <question id="T4B04" correct="B">
+        <text>What is a way to enable quick access to a favorite frequency or channel on your transceiver?</text>
+        <answer id="A">Enable the frequency offset</answer>
+        <answer id="B">Store it in a memory channel</answer>
+        <answer id="C">Enable the VOX</answer>
+        <answer id="D">Use the scan mode to select the desired frequency</answer>
+      </question>
+      <question id="T4B05" correct="C">
+        <text>What does the scanning function of an FM transceiver do?</text>
+        <answer id="A">Checks incoming signal deviation</answer>
+        <answer id="B">Prevents interference to nearby repeaters</answer>
+        <answer id="C">Tunes through a range of frequencies to check for activity</answer>
+        <answer id="D">Checks for messages left on a digital bulletin board</answer>
+      </question>
+      <question id="T4B06" correct="D">
+        <text>Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?</text>
+        <answer id="A">The AGC or limiter</answer>
+        <answer id="B">The bandwidth selection</answer>
+        <answer id="C">The tone squelch</answer>
+        <answer id="D">The RIT or Clarifier</answer>
+      </question>
+      <question id="T4B07" correct="B">
+        <text>What does a DMR “code plug” contain?</text>
+        <answer id="A">Your call sign in CW for automatic identification</answer>
+        <answer id="B">Access information for repeaters and talkgroups</answer>
+        <answer id="C">The codec for digitizing audio</answer>
+        <answer id="D">The DMR software version</answer>
+      </question>
+      <question id="T4B08" correct="B">
+        <text>What is the advantage of having multiple receive bandwidth choices on a multimode transceiver?</text>
+        <answer id="A">Permits monitoring several modes at once by selecting a separate filter for each mode</answer>
+        <answer id="B">Permits noise or interference reduction by selecting a bandwidth matching the mode</answer>
+        <answer id="C">Increases the number of frequencies that can be stored in memory</answer>
+        <answer id="D">Increases the amount of offset between receive and transmit frequencies</answer>
+      </question>
+      <question id="T4B09" correct="C">
+        <text>How is a specific group of stations selected on a digital voice transceiver?</text>
+        <answer id="A">By retrieving the frequencies from transceiver memory</answer>
+        <answer id="B">By enabling the group’s CTCSS tone</answer>
+        <answer id="C">By entering the group’s identification code</answer>
+        <answer id="D">By activating automatic identification</answer>
+      </question>
+      <question id="T4B10" correct="C">
+        <text>Which of the following receiver filter bandwidths provides the best signal-to-noise ratio for SSB reception?</text>
+        <answer id="A">500 Hz</answer>
+        <answer id="B">1000 Hz</answer>
+        <answer id="C">2400 Hz</answer>
+        <answer id="D">5000 Hz</answer>
+      </question>
+      <question id="T4B11" correct="A">
+        <text>Which of the following must be programmed into a D-STAR digital transceiver before transmitting?</text>
+        <answer id="A">Your call sign</answer>
+        <answer id="B">Your output power</answer>
+        <answer id="C">The codec type being used</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T4B12" correct="D">
+        <text>What is the result of tuning an FM receiver above or below a signal’s frequency?</text>
+        <answer id="A">Change in audio pitch</answer>
+        <answer id="B">Sideband inversion</answer>
+        <answer id="C">Generation of a heterodyne tone</answer>
+        <answer id="D">Distortion of the signal’s audio</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T5">
+    <description>SUBELEMENT T5 – ELECTRICAL PRINCIPLES – [4 Exam Questions - 4 Groups]</description>
+    <group id="T5A">
+      <description>T5A – Current and voltage: terminology and units, conductors and insulators, alternating and direct current</description>
+      <question id="T5A01" correct="D">
+        <text>Electrical current is measured in which of the following units?</text>
+        <answer id="A">Volts</answer>
+        <answer id="B">Watts</answer>
+        <answer id="C">Ohms</answer>
+        <answer id="D">Amperes</answer>
+      </question>
+      <question id="T5A02" correct="B">
+        <text>Electrical power is measured in which of the following units?</text>
+        <answer id="A">Volts</answer>
+        <answer id="B">Watts</answer>
+        <answer id="C">Watt-hours</answer>
+        <answer id="D">Amperes</answer>
+      </question>
+      <question id="T5A03" correct="D">
+        <text>What is the name for the flow of electrons in an electric circuit?</text>
+        <answer id="A">Voltage</answer>
+        <answer id="B">Resistance</answer>
+        <answer id="C">Capacitance</answer>
+        <answer id="D">Current</answer>
+      </question>
+      <question id="T5A04" correct="C">
+        <text>What are the units of electrical resistance?</text>
+        <answer id="A">Siemens</answer>
+        <answer id="B">Mhos</answer>
+        <answer id="C">Ohms</answer>
+        <answer id="D">Coulombs</answer>
+      </question>
+      <question id="T5A05" correct="A">
+        <text>What is the electrical term for the force that causes electron flow?</text>
+        <answer id="A">Voltage</answer>
+        <answer id="B">Ampere-hours</answer>
+        <answer id="C">Capacitance</answer>
+        <answer id="D">Inductance</answer>
+      </question>
+      <question id="T5A06" correct="A">
+        <text>What is the unit of frequency?</text>
+        <answer id="A">Hertz</answer>
+        <answer id="B">Henry</answer>
+        <answer id="C">Farad</answer>
+        <answer id="D">Tesla</answer>
+      </question>
+      <question id="T5A07" correct="B">
+        <text>Why are metals generally good conductors of electricity?</text>
+        <answer id="A">They have relatively high density</answer>
+        <answer id="B">They have many free electrons</answer>
+        <answer id="C">They have many free protons</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T5A08" correct="B">
+        <text>Which of the following is a good electrical insulator?</text>
+        <answer id="A">Copper</answer>
+        <answer id="B">Glass</answer>
+        <answer id="C">Aluminum</answer>
+        <answer id="D">Mercury</answer>
+      </question>
+      <question id="T5A09" correct="C">
+        <text>Which of the following describes alternating current?</text>
+        <answer id="A">Current that alternates between a positive direction and zero</answer>
+        <answer id="B">Current that alternates between a negative direction and zero</answer>
+        <answer id="C">Current that alternates between positive and negative directions</answer>
+        <answer id="D" last="true">All these answers are correct</answer>
+      </question>
+      <question id="T5A10" correct="C">
+        <text>Which term describes the rate at which electrical energy is used?</text>
+        <answer id="A">Resistance</answer>
+        <answer id="B">Current</answer>
+        <answer id="C">Power</answer>
+        <answer id="D">Voltage</answer>
+      </question>
+      <question id="T5A11" correct="D">
+        <text>What type of current flow is opposed by resistance?</text>
+        <answer id="A">Direct current</answer>
+        <answer id="B">Alternating current</answer>
+        <answer id="C">RF current</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T5A12" correct="D">
+        <text>What describes the number of times per second that an alternating current makes a complete cycle?</text>
+        <answer id="A">Pulse rate</answer>
+        <answer id="B">Speed</answer>
+        <answer id="C">Wavelength</answer>
+        <answer id="D">Frequency</answer>
+      </question>
+    </group>
+    <group id="T5B">
+      <description>T5B - Math for electronics: conversion of electrical units, decibels</description>
+      <question id="T5B01" correct="C">
+        <text>How many milliamperes is 1.5 amperes?</text>
+        <answer id="A">15 milliamperes</answer>
+        <answer id="B">150 milliamperes</answer>
+        <answer id="C">1500 milliamperes</answer>
+        <answer id="D">15,000 milliamperes</answer>
+      </question>
+      <question id="T5B02" correct="A">
+        <text>Which is equal to 1,500,000 hertz?</text>
+        <answer id="A">1500 kHz</answer>
+        <answer id="B">1500 MHz</answer>
+        <answer id="C">15 GHz</answer>
+        <answer id="D">150 kHz</answer>
+      </question>
+      <question id="T5B03" correct="C">
+        <text>Which is equal to one kilovolt?</text>
+        <answer id="A">One one-thousandth of a volt</answer>
+        <answer id="B">One hundred volts</answer>
+        <answer id="C">One thousand volts</answer>
+        <answer id="D">One million volts</answer>
+      </question>
+      <question id="T5B04" correct="A">
+        <text>Which is equal to one microvolt?</text>
+        <answer id="A">One one-millionth of a volt</answer>
+        <answer id="B">One million volts</answer>
+        <answer id="C">One thousand kilovolts</answer>
+        <answer id="D">One one-thousandth of a volt</answer>
+      </question>
+      <question id="T5B05" correct="B">
+        <text>Which is equal to 500 milliwatts?</text>
+        <answer id="A">0.02 watts</answer>
+        <answer id="B">0.5 watts</answer>
+        <answer id="C">5 watts</answer>
+        <answer id="D">50 watts</answer>
+      </question>
+      <question id="T5B06" correct="D">
+        <text>Which is equal to 3000 milliamperes?</text>
+        <answer id="A">0.003 amperes</answer>
+        <answer id="B">0.3 amperes</answer>
+        <answer id="C">3,000,000 amperes</answer>
+        <answer id="D">3 amperes</answer>
+      </question>
+      <question id="T5B07" correct="C">
+        <text>Which is equal to 3.525 MHz?</text>
+        <answer id="A">0.003525 kHz</answer>
+        <answer id="B">35.25 kHz</answer>
+        <answer id="C">3525 kHz</answer>
+        <answer id="D">3,525,000 kHz</answer>
+      </question>
+      <question id="T5B08" correct="B">
+        <text>Which is equal to 1,000,000 picofarads?</text>
+        <answer id="A">0.001 microfarads</answer>
+        <answer id="B">1 microfarad</answer>
+        <answer id="C">1000 microfarads</answer>
+        <answer id="D">1,000,000,000 microfarads</answer>
+      </question>
+      <question id="T5B09" correct="B">
+        <text>Which decibel value most closely represents a power increase from 5 watts to 10 watts?</text>
+        <answer id="A">2 dB</answer>
+        <answer id="B">3 dB</answer>
+        <answer id="C">5 dB</answer>
+        <answer id="D">10 dB</answer>
+      </question>
+      <question id="T5B10" correct="C">
+        <text>Which decibel value most closely represents a power decrease from 12 watts to 3 watts?</text>
+        <answer id="A">-1 dB</answer>
+        <answer id="B">-3 dB</answer>
+        <answer id="C">-6 dB</answer>
+        <answer id="D">-9 dB</answer>
+      </question>
+      <question id="T5B11" correct="A">
+        <text>Which decibel value represents a power increase from 20 watts to 200 watts?</text>
+        <answer id="A">10 dB</answer>
+        <answer id="B">12 dB</answer>
+        <answer id="C">18 dB</answer>
+        <answer id="D">28 dB</answer>
+      </question>
+      <question id="T5B12" correct="D">
+        <text>Which is equal to 28400 kHz?</text>
+        <answer id="A">28.400 kHz</answer>
+        <answer id="B">2.800 MHz</answer>
+        <answer id="C">284.00 MHz</answer>
+        <answer id="D">28.400 MHz</answer>
+      </question>
+      <question id="T5B13" correct="C">
+        <text>Which is equal to 2425 MHz?</text>
+        <answer id="A">0.002425 GHz</answer>
+        <answer id="B">24.25 GHz</answer>
+        <answer id="C">2.425 GHz</answer>
+        <answer id="D">2425 GHz</answer>
+      </question>
+    </group>
+    <group id="T5C">
+      <description>T5C – Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance definition and units; Calculating power</description>
+      <question id="T5C01" correct="D">
+        <text>What describes the ability to store energy in an electric field?</text>
+        <answer id="A">Inductance</answer>
+        <answer id="B">Resistance</answer>
+        <answer id="C">Tolerance</answer>
+        <answer id="D">Capacitance</answer>
+      </question>
+      <question id="T5C02" correct="A">
+        <text>What is the unit of capacitance?</text>
+        <answer id="A">The farad</answer>
+        <answer id="B">The ohm</answer>
+        <answer id="C">The volt</answer>
+        <answer id="D">The henry</answer>
+      </question>
+      <question id="T5C03" correct="D">
+        <text>What describes the ability to store energy in a magnetic field?</text>
+        <answer id="A">Admittance</answer>
+        <answer id="B">Capacitance</answer>
+        <answer id="C">Resistance</answer>
+        <answer id="D">Inductance</answer>
+      </question>
+      <question id="T5C04" correct="C">
+        <text>What is the unit of inductance?</text>
+        <answer id="A">The coulomb</answer>
+        <answer id="B">The farad</answer>
+        <answer id="C">The henry</answer>
+        <answer id="D">The ohm</answer>
+      </question>
+      <question id="T5C05" correct="D">
+        <text>What is the unit of impedance?</text>
+        <answer id="A">The volt</answer>
+        <answer id="B">The ampere</answer>
+        <answer id="C">The coulomb</answer>
+        <answer id="D">The ohm</answer>
+      </question>
+      <question id="T5C06" correct="A">
+        <text>What does the abbreviation “RF” mean?</text>
+        <answer id="A">Radio frequency signals of all types</answer>
+        <answer id="B">The resonant frequency of a tuned circuit</answer>
+        <answer id="C">The real frequency transmitted as opposed to the apparent frequency</answer>
+        <answer id="D">Reflective force in antenna transmission lines</answer>
+      </question>
+      <question id="T5C07" correct="D">
+        <text>What is the abbreviation for megahertz?</text>
+        <answer id="A">MH</answer>
+        <answer id="B">mh</answer>
+        <answer id="C">Mhz</answer>
+        <answer id="D">MHz</answer>
+      </question>
+      <question id="T5C08" correct="A">
+        <text>What is the formula used to calculate electrical power (P) in a DC circuit?</text>
+        <answer id="A">P = I  E</answer>
+        <answer id="B">P = E / I</answer>
+        <answer id="C">P = E – I</answer>
+        <answer id="D">P = I + E</answer>
+      </question>
+      <question id="T5C09" correct="A">
+        <text>How much power is delivered by a voltage of 13.8 volts DC and a current of 10 amperes?</text>
+        <answer id="A">138 watts</answer>
+        <answer id="B">0.7 watts</answer>
+        <answer id="C">23.8 watts</answer>
+        <answer id="D">3.8 watts</answer>
+      </question>
+      <question id="T5C10" correct="B">
+        <text>How much power is delivered by a voltage of 12 volts DC and a current of 2.5 amperes?</text>
+        <answer id="A">4.8 watts</answer>
+        <answer id="B">30 watts</answer>
+        <answer id="C">14.5 watts</answer>
+        <answer id="D">0.208 watts</answer>
+      </question>
+      <question id="T5C11" correct="B">
+        <text>How much current is required to deliver 120 watts at a voltage of 12 volts DC?</text>
+        <answer id="A">0.1 amperes</answer>
+        <answer id="B">10 amperes</answer>
+        <answer id="C">12 amperes</answer>
+        <answer id="D">132 amperes</answer>
+      </question>
+      <question id="T5C12" correct="A">
+        <text>What is impedance?</text>
+        <answer id="A">The opposition to AC current flow</answer>
+        <answer id="B">The inverse of resistance</answer>
+        <answer id="C">The Q or Quality Factor of a component</answer>
+        <answer id="D">The power handling capability of a component</answer>
+      </question>
+      <question id="T5C13" correct="D">
+        <text>What is the abbreviation for kilohertz?</text>
+        <answer id="A">KHZ</answer>
+        <answer id="B">khz</answer>
+        <answer id="C">khZ</answer>
+        <answer id="D">kHz</answer>
+      </question>
+    </group>
+    <group id="T5D">
+      <description>T5D – Ohm’s Law; Series and parallel circuits</description>
+      <question id="T5D01" correct="B">
+        <text>What formula is used to calculate current in a circuit?</text>
+        <answer id="A">I = E  R</answer>
+        <answer id="B">I = E / R</answer>
+        <answer id="C">I = E + R</answer>
+        <answer id="D">I = E - R</answer>
+      </question>
+      <question id="T5D02" correct="A">
+        <text>What formula is used to calculate voltage in a circuit?</text>
+        <answer id="A">E = I x R</answer>
+        <answer id="B">E = I / R</answer>
+        <answer id="C">E = I + R</answer>
+        <answer id="D">E = I - R</answer>
+      </question>
+      <question id="T5D03" correct="B">
+        <text>What formula is used to calculate resistance in a circuit?</text>
+        <answer id="A">R = E x I</answer>
+        <answer id="B">R = E / I</answer>
+        <answer id="C">R = E + I</answer>
+        <answer id="D">R = E - I</answer>
+      </question>
+      <question id="T5D04" correct="B">
+        <text>What is the resistance of a circuit in which a current of 3 amperes flows when connected to 90 volts?</text>
+        <answer id="A">3 ohms</answer>
+        <answer id="B">30 ohms</answer>
+        <answer id="C">93 ohms</answer>
+        <answer id="D">270 ohms</answer>
+      </question>
+      <question id="T5D05" correct="C">
+        <text>What is the resistance of a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?</text>
+        <answer id="A">18 ohms</answer>
+        <answer id="B">0.125 ohms</answer>
+        <answer id="C">8 ohms</answer>
+        <answer id="D">13.5 ohms</answer>
+      </question>
+      <question id="T5D06" correct="A">
+        <text>What is the resistance of a circuit that draws 4 amperes from a 12-volt source?</text>
+        <answer id="A">3 ohms</answer>
+        <answer id="B">16 ohms</answer>
+        <answer id="C">48 ohms</answer>
+        <answer id="D">8 ohms</answer>
+      </question>
+      <question id="T5D07" correct="D">
+        <text>What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?</text>
+        <answer id="A">9600 amperes</answer>
+        <answer id="B">200 amperes</answer>
+        <answer id="C">0.667 amperes</answer>
+        <answer id="D">1.5 amperes</answer>
+      </question>
+      <question id="T5D08" correct="C">
+        <text>What is the current through a 100-ohm resistor connected across 200 volts?</text>
+        <answer id="A">20,000 amperes</answer>
+        <answer id="B">0.5 amperes</answer>
+        <answer id="C">2 amperes</answer>
+        <answer id="D">100 amperes</answer>
+      </question>
+      <question id="T5D09" correct="C">
+        <text>What is the current through a 24-ohm resistor connected across 240 volts?</text>
+        <answer id="A">24,000 amperes</answer>
+        <answer id="B">0.1 amperes</answer>
+        <answer id="C">10 amperes</answer>
+        <answer id="D">216 amperes</answer>
+      </question>
+      <question id="T5D10" correct="A">
+        <text>What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?</text>
+        <answer id="A">1 volt</answer>
+        <answer id="B">0.25 volts</answer>
+        <answer id="C">2.5 volts</answer>
+        <answer id="D">1.5 volts</answer>
+      </question>
+      <question id="T5D11" correct="B">
+        <text>What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?</text>
+        <answer id="A">1 volt</answer>
+        <answer id="B">10 volts</answer>
+        <answer id="C">11 volts</answer>
+        <answer id="D">9 volts</answer>
+      </question>
+      <question id="T5D12" correct="D">
+        <text>What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?</text>
+        <answer id="A">8 volts</answer>
+        <answer id="B">0.2 volts</answer>
+        <answer id="C">12 volts</answer>
+        <answer id="D">20 volts</answer>
+      </question>
+      <question id="T5D13" correct="A">
+        <text>In which type of circuit is DC current the same through all components?</text>
+        <answer id="A">Series</answer>
+        <answer id="B">Parallel</answer>
+        <answer id="C">Resonant</answer>
+        <answer id="D">Branch</answer>
+      </question>
+      <question id="T5D14" correct="B">
+        <text>In which type of circuit is voltage the same across all components?</text>
+        <answer id="A">Series</answer>
+        <answer id="B">Parallel</answer>
+        <answer id="C">Resonant</answer>
+        <answer id="D">Branch</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T6">
+    <description>SUBELEMENT T6 – ELECTRONIC AND ELECTRICAL COMPONENTS – [4 Exam Questions - 4 Groups]</description>
+    <group id="T6A">
+      <description>T6A - Fixed and variable resistors; Capacitors; Inductors; Fuses; Switches; Batteries</description>
+      <question id="T6A01" correct="B">
+        <text>What electrical component opposes the flow of current in a DC circuit?</text>
+        <answer id="A">Inductor</answer>
+        <answer id="B">Resistor</answer>
+        <answer id="C">Inverter</answer>
+        <answer id="D">Transformer</answer>
+      </question>
+      <question id="T6A02" correct="C">
+        <text>What type of component is often used as an adjustable volume control?</text>
+        <answer id="A">Fixed resistor</answer>
+        <answer id="B">Power resistor</answer>
+        <answer id="C">Potentiometer</answer>
+        <answer id="D">Transformer</answer>
+      </question>
+      <question id="T6A03" correct="B">
+        <text>What electrical parameter is controlled by a potentiometer?</text>
+        <answer id="A">Inductance</answer>
+        <answer id="B">Resistance</answer>
+        <answer id="C">Capacitance</answer>
+        <answer id="D">Field strength</answer>
+      </question>
+      <question id="T6A04" correct="B">
+        <text>What electrical component stores energy in an electric field?</text>
+        <answer id="A">Varistor</answer>
+        <answer id="B">Capacitor</answer>
+        <answer id="C">Inductor</answer>
+        <answer id="D">Diode</answer>
+      </question>
+      <question id="T6A05" correct="D" >
+        <text>What type of electrical component consists of conductive surfaces separated by an insulator?</text>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Potentiometer</answer>
+        <answer id="C">Oscillator</answer>
+        <answer id="D">Capacitor</answer>
+      </question>
+      <question id="T6A06" correct="C">
+        <text>What type of electrical component stores energy in a magnetic field?</text>
+        <answer id="A">Varistor</answer>
+        <answer id="B">Capacitor</answer>
+        <answer id="C">Inductor</answer>
+        <answer id="D">Diode</answer>
+      </question>
+      <question id="T6A07" correct="D">
+        <text>What electrical component is typically constructed as a coil of wire?</text>
+        <answer id="A">Switch</answer>
+        <answer id="B">Capacitor</answer>
+        <answer id="C">Diode</answer>
+        <answer id="D">Inductor</answer>
+      </question>
+      <question id="T6A08" correct="C">
+        <text>What is the function of an SPDT switch?</text>
+        <answer id="A">A single circuit is opened or closed</answer>
+        <answer id="B">Two circuits are opened or closed</answer>
+        <answer id="C">A single circuit is switched between one of two other circuits</answer>
+        <answer id="D">Two circuits are each switched between one of two other circuits</answer>
+      </question>
+      <question id="T6A09" correct="A">
+        <text>What electrical component is used to protect other circuit components from current overloads?</text>
+        <answer id="A">Fuse</answer>
+        <answer id="B">Thyratron</answer>
+        <answer id="C">Varactor</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T6A10" correct="D">
+        <text>Which of the following battery chemistries is rechargeable?</text>
+        <answer id="A">Nickel-metal hydride</answer>
+        <answer id="B">Lithium-ion</answer>
+        <answer id="C">Lead-acid</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T6A11" correct="B">
+        <text>Which of the following battery chemistries is not rechargeable?</text>
+        <answer id="A">Nickel-cadmium</answer>
+        <answer id="B">Carbon-zinc</answer>
+        <answer id="C">Lead-acid</answer>
+        <answer id="D">Lithium-ion</answer>
+      </question>
+      <question id="T6A12" correct="A">
+        <text>What type of switch is represented by component 3 in figure T-2?</text>
+        <image url="Figure_T-2.png"/>
+        <answer id="A">Single-pole single-throw</answer>
+        <answer id="B">Single-pole double-throw</answer>
+        <answer id="C">Double-pole single-throw</answer>
+        <answer id="D">Double-pole double-throw</answer>
+      </question>
+    </group>
+    <group id="T6B">
+      <description>T6B – Semiconductors: basic principles and applications of solid state devices, diodes and transistors</description>
+      <question id="T6B01" correct="A">
+        <text>Which is true about forward voltage drop in a diode?</text>
+        <answer id="A">It is lower in some diode types than in others</answer>
+        <answer id="B">It is proportional to peak inverse voltage</answer>
+        <answer id="C">It indicates that the diode is defective</answer>
+        <answer id="D">It has no impact on the voltage delivered to the load</answer>
+      </question>
+      <question id="T6B02" correct="C">
+        <text>What electronic component allows current to flow in only one direction?</text>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Fuse</answer>
+        <answer id="C">Diode</answer>
+        <answer id="D">Driven element</answer>
+      </question>
+      <question id="T6B03" correct="C">
+        <text>Which of these components can be used as an electronic switch?</text>
+        <answer id="A">Varistor</answer>
+        <answer id="B">Potentiometer</answer>
+        <answer id="C">Transistor</answer>
+        <answer id="D">Thermistor</answer>
+      </question>
+      <question id="T6B04" correct="B">
+        <text>Which of the following components can consist of three regions of semiconductor material?</text>
+        <answer id="A">Alternator</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Triode</answer>
+        <answer id="D">Pentagrid converter</answer>
+      </question>
+      <question id="T6B05" correct="B">
+        <text>What type of transistor has a gate, drain, and source?</text>
+        <answer id="A">Varistor</answer>
+        <answer id="B">Field-effect</answer>
+        <answer id="C">Tesla-effect</answer>
+        <answer id="D">Bipolar junction</answer>
+      </question>
+      <question id="T6B06" correct="B">
+        <text>How is the cathode lead of a semiconductor diode often marked on the package?</text>
+        <answer id="A">With the word "cathode"</answer>
+        <answer id="B">With a stripe</answer>
+        <answer id="C">With the letter C</answer>
+        <answer id="D">With the letter K</answer>
+      </question>
+      <question id="T6B07" correct="A">
+        <text>What causes a light-emitting diode (LED) to emit light?</text>
+        <answer id="A">Forward current</answer>
+        <answer id="B">Reverse current</answer>
+        <answer id="C">Capacitively-coupled RF signal</answer>
+        <answer id="D">Inductively-coupled RF signal</answer>
+      </question>
+      <question id="T6B08" correct="D">
+        <text>What does the abbreviation FET stand for?</text>
+        <answer id="A">Frequency Emission Transmitter</answer>
+        <answer id="B">Fast Electron Transistor</answer>
+        <answer id="C">Free Electron Transmitter</answer>
+        <answer id="D">Field Effect Transistor</answer>
+      </question>
+      <question id="T6B09" correct="C">
+        <text>What are the names for the electrodes of a diode?</text>
+        <answer id="A">Plus and minus</answer>
+        <answer id="B">Source and drain</answer>
+        <answer id="C">Anode and cathode</answer>
+        <answer id="D">Gate and base</answer>
+      </question>
+      <question id="T6B10" correct="B">
+        <text>Which of the following can provide power gain?</text>
+        <answer id="A">Transformer</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Reactor</answer>
+        <answer id="D">Resistor</answer>
+      </question>
+      <question id="T6B11" correct="A">
+        <text>What is the term that describes a device's ability to amplify a signal?</text>
+        <answer id="A">Gain</answer>
+        <answer id="B">Forward resistance</answer>
+        <answer id="C">Forward voltage drop</answer>
+        <answer id="D">On resistance</answer>
+      </question>
+      <question id="T6B12" correct="B">
+        <text>What are the names of the electrodes of a bipolar junction transistor?</text>
+        <answer id="A">Signal, bias, power</answer>
+        <answer id="B">Emitter, base, collector</answer>
+        <answer id="C">Input, output, supply</answer>
+        <answer id="D">Pole one, pole two, output</answer>
+      </question>
+    </group>
+    <group id="T6C">
+      <description>T6C - Circuit diagrams: use of schematics, basic structure; Schematic symbols of basic components</description>
+      <question id="T6C01" correct="C">
+        <text>What is the name of an electrical wiring diagram that uses standard component symbols?</text>
+        <answer id="A">Bill of materials</answer>
+        <answer id="B">Connector pinout</answer>
+        <answer id="C">Schematic</answer>
+        <answer id="D">Flow chart</answer>
+      </question>
+      <question id="T6C02" correct="A">
+        <text>What is component 1 in figure T-1?</text>
+        <image url="Figure_T-1.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Battery</answer>
+        <answer id="D">Connector</answer>
+      </question>
+      <question id="T6C03" correct="B">
+        <text>What is component 2 in figure T-1?</text>
+        <image url="Figure_T-1.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Indicator lamp</answer>
+        <answer id="D">Connector</answer>
+      </question>
+      <question id="T6C04" correct="C">
+        <text>What is component 3 in figure T-1?</text>
+        <image url="Figure_T-1.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Lamp</answer>
+        <answer id="D">Ground symbol</answer>
+      </question>
+      <question id="T6C05" correct="D">
+        <text>What is component 4 in figure T-1?</text>
+        <image url="Figure_T-1.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Ground symbol</answer>
+        <answer id="D">Battery</answer>
+      </question>
+      <question id="T6C06" correct="B">
+        <text>What is component 6 in figure T-2?</text>
+        <image url="Figure_T-2.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Capacitor</answer>
+        <answer id="C">Regulator IC</answer>
+        <answer id="D">Transistor</answer>
+      </question>
+      <question id="T6C07" correct="D">
+        <text>What is component 8 in figure T-2?</text>
+        <image url="Figure_T-2.png"/>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Inductor</answer>
+        <answer id="C">Regulator IC</answer>
+        <answer id="D">Light emitting diode</answer>
+      </question>
+      <question id="T6C08" correct="C">
+        <text>What is component 9 in figure T-2?</text>
+        <image url="Figure_T-2.png"/>
+        <answer id="A">Variable capacitor</answer>
+        <answer id="B">Variable inductor</answer>
+        <answer id="C">Variable resistor</answer>
+        <answer id="D">Variable transformer</answer>
+      </question>
+      <question id="T6C09" correct="D">
+        <text>What is component 4 in figure T-2?</text>
+        <image url="Figure_T-2.png"/>
+        <answer id="A">Variable inductor</answer>
+        <answer id="B">Double-pole switch</answer>
+        <answer id="C">Potentiometer</answer>
+        <answer id="D">Transformer</answer>
+      </question>
+      <question id="T6C10" correct="D">
+        <text>What is component 3 in figure T-3?</text>
+        <image url="Figure_T-3.png"/>
+        <answer id="A">Connector</answer>
+        <answer id="B">Meter</answer>
+        <answer id="C">Variable capacitor</answer>
+        <answer id="D">Variable inductor</answer>
+      </question>
+      <question id="T6C11" correct="A">
+        <text>What is component 4 in figure T-3?</text>
+        <image url="Figure_T-3.png"/>
+        <answer id="A">Antenna</answer>
+        <answer id="B">Transmitter</answer>
+        <answer id="C">Dummy load</answer>
+        <answer id="D">Ground</answer>
+      </question>
+      <question id="T6C12" correct="C">
+        <text>Which of the following is accurately represented in electrical schematics?</text>
+        <answer id="A">Wire lengths</answer>
+        <answer id="B">Physical appearance of components</answer>
+        <answer id="C">Component connections</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+    </group>
+    <group id="T6D">
+      <description>T6D - Component functions: rectifiers, relays, voltage regulators, meters, indicators, integrated circuits, transformers; Resonant circuit; Shielding</description>
+      <question id="T6D01" correct="B">
+        <text>Which of the following devices or circuits changes an alternating current into a varying direct current signal?</text>
+        <answer id="A">Transformer</answer>
+        <answer id="B">Rectifier</answer>
+        <answer id="C">Amplifier</answer>
+        <answer id="D">Reflector</answer>
+      </question>
+      <question id="T6D02" correct="A">
+        <text>What is a relay?</text>
+        <answer id="A">An electrically-controlled switch</answer>
+        <answer id="B">A current controlled amplifier</answer>
+        <answer id="C">An inverting amplifier</answer>
+        <answer id="D">A pass transistor</answer>
+      </question>
+      <question id="T6D03" correct="C">
+        <text>Which of the following is a reason to use shielded wire?</text>
+        <answer id="A">To decrease the resistance of DC power connections</answer>
+        <answer id="B">To increase the current carrying capability of the wire</answer>
+        <answer id="C">To prevent coupling of unwanted signals to or from the wire</answer>
+        <answer id="D">To couple the wire to other signals</answer>
+      </question>
+      <question id="T6D04" correct="C">
+        <text>Which of the following displays an electrical quantity as a numeric value?</text>
+        <answer id="A">Potentiometer</answer>
+        <answer id="B">Transistor</answer>
+        <answer id="C">Meter</answer>
+        <answer id="D">Relay</answer>
+      </question>
+      <question id="T6D05" correct="A">
+        <text>What type of circuit controls the amount of voltage from a power supply?</text>
+        <answer id="A">Regulator</answer>
+        <answer id="B">Oscillator</answer>
+        <answer id="C">Filter</answer>
+        <answer id="D">Phase inverter</answer>
+      </question>
+      <question id="T6D06" correct="B">
+        <text>What component changes 120 V AC power to a lower AC voltage for other uses?</text>
+        <answer id="A">Variable capacitor</answer>
+        <answer id="B">Transformer</answer>
+        <answer id="C">Transistor</answer>
+        <answer id="D">Diode</answer>
+      </question>
+      <question id="T6D07" correct="A">
+        <text>Which of the following is commonly used as a visual indicator?</text>
+        <answer id="A">LED</answer>
+        <answer id="B">FET</answer>
+        <answer id="C">Zener diode</answer>
+        <answer id="D">Bipolar transistor</answer>
+      </question>
+      <question id="T6D08" correct="D">
+        <text>Which of the following is combined with an inductor to make a resonant circuit?</text>
+        <answer id="A">Resistor</answer>
+        <answer id="B">Zener diode</answer>
+        <answer id="C">Potentiometer</answer>
+        <answer id="D">Capacitor</answer>
+      </question>
+      <question id="T6D09" correct="C">
+        <text>What is the name of a device that combines several semiconductors and other components into one package?</text>
+        <answer id="A">Transducer</answer>
+        <answer id="B">Multi-pole relay</answer>
+        <answer id="C">Integrated circuit</answer>
+        <answer id="D">Transformer</answer>
+      </question>
+      <question id="T6D10" correct="C">
+        <text>What is the function of component 2 in figure T-1?</text>
+        <image url="Figure_T-1.png"/>
+        <answer id="A">Give off light when current flows through it</answer>
+        <answer id="B">Supply electrical energy</answer>
+        <answer id="C">Control the flow of current</answer>
+        <answer id="D">Convert electrical energy into radio waves</answer>
+      </question>
+      <question id="T6D11" correct="A">
+        <text>Which of the following is a resonant or tuned circuit?</text>
+        <answer id="A">An inductor and a capacitor in series or parallel</answer>
+        <answer id="B">A linear voltage regulator</answer>
+        <answer id="C">A resistor circuit used for reducing standing wave ratio</answer>
+        <answer id="D">A circuit designed to provide high-fidelity audio</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T7">
+    <description>SUBELEMENT T7 – PRACTICAL CIRCUITS – [4 Exam Questions - 4 Groups]</description>
+    <group id="T7A">
+      <description>T7A – Station equipment: receivers, transceivers, transmitter amplifiers, receive amplifiers, transverters; Basic radio circuit concepts and terminology: sensitivity, selectivity, mixers, oscillators, PTT, modulation</description>
+      <question id="T7A01" correct="B">
+        <text>Which term describes the ability of a receiver to detect the presence of a signal?</text>
+        <answer id="A">Linearity</answer>
+        <answer id="B">Sensitivity</answer>
+        <answer id="C">Selectivity</answer>
+        <answer id="D">Total Harmonic Distortion</answer>
+      </question>
+      <question id="T7A02" correct="A">
+        <text>What is a transceiver?</text>
+        <answer id="A">A device that combines a receiver and transmitter</answer>
+        <answer id="B">A device for matching feed line impedance to 50 ohms</answer>
+        <answer id="C">A device for automatically sending and decoding Morse code</answer>
+        <answer id="D">A device for converting receiver and transmitter frequencies to another band</answer>
+      </question>
+      <question id="T7A03" correct="B">
+        <text>Which of the following is used to convert a signal from one frequency to another?</text>
+        <answer id="A">Phase splitter</answer>
+        <answer id="B">Mixer</answer>
+        <answer id="C">Inverter</answer>
+        <answer id="D">Amplifier</answer>
+      </question>
+      <question id="T7A04" correct="C">
+        <text>Which term describes the ability of a receiver to discriminate between multiple signals?</text>
+        <answer id="A">Discrimination ratio</answer>
+        <answer id="B">Sensitivity</answer>
+        <answer id="C">Selectivity</answer>
+        <answer id="D">Harmonic distortion</answer>
+      </question>
+      <question id="T7A05" correct="D">
+        <text>What is the name of a circuit that generates a signal at a specific frequency?</text>
+        <answer id="A">Reactance modulator</answer>
+        <answer id="B">Phase modulator</answer>
+        <answer id="C">Low-pass filter</answer>
+        <answer id="D">Oscillator</answer>
+      </question>
+      <question id="T7A06" correct="C">
+        <text>What device converts the RF input and output of a transceiver to another band?</text>
+        <answer id="A">High-pass filter</answer>
+        <answer id="B">Low-pass filter</answer>
+        <answer id="C">Transverter</answer>
+        <answer id="D">Phase converter</answer>
+      </question>
+      <question id="T7A07" correct="B">
+        <text>What is the function of a transceiver’s PTT input?</text>
+        <answer id="A">Input for a key used to send CW</answer>
+        <answer id="B">Switches transceiver from receive to transmit when grounded</answer>
+        <answer id="C">Provides a transmit tuning tone when grounded</answer>
+        <answer id="D">Input for a preamplifier tuning tone</answer>
+      </question>
+      <question id="T7A08" correct="C">
+        <text>Which of the following describes combining speech with an RF carrier signal?</text>
+        <answer id="A">Impedance matching</answer>
+        <answer id="B">Oscillation</answer>
+        <answer id="C">Modulation</answer>
+        <answer id="D">Low-pass filtering</answer>
+      </question>
+      <question id="T7A09" correct="B">
+        <text>What is the function of the SSB/CW-FM switch on a VHF power amplifier?</text>
+        <answer id="A">Change the mode of the transmitted signal</answer>
+        <answer id="B">Set the amplifier for proper operation in the selected mode</answer>
+        <answer id="C">Change the frequency range of the amplifier to operate in the proper segment of the band</answer>
+        <answer id="D">Reduce the received signal noise</answer>
+      </question>
+      <question id="T7A10" correct="B">
+        <text>What device increases the transmitted output power from a transceiver?</text>
+        <answer id="A">A voltage divider</answer>
+        <answer id="B">An RF power amplifier</answer>
+        <answer id="C">An impedance network</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7A11" correct="A">
+        <text>Where is an RF preamplifier installed?</text>
+        <answer id="A">Between the antenna and receiver</answer>
+        <answer id="B">At the output of the transmitter power amplifier</answer>
+        <answer id="C">Between the transmitter and the antenna tuner</answer>
+        <answer id="D">At the output of the receiver audio amplifier</answer>
+      </question>
+    </group>
+    <group id="T7B">
+      <description>T7B – Symptoms, causes, and cures of common transmitter and receiver problems: overload and overdrive, distortion, interference and consumer electronics, RF feedback</description>
+      <question id="T7B01" correct="D">
+        <text>What can you do if you are told your FM handheld or mobile transceiver is over-deviating?</text>
+        <answer id="A">Talk louder into the microphone</answer>
+        <answer id="B">Let the transceiver cool off</answer>
+        <answer id="C">Change to a higher power level</answer>
+        <answer id="D">Talk farther away from the microphone</answer>
+      </question>
+      <question id="T7B02" correct="A">
+        <text>What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?</text>
+        <answer id="A">The receiver is unable to reject strong signals outside the AM or FM band</answer>
+        <answer id="B">The microphone gain of the transmitter is turned up too high</answer>
+        <answer id="C">The audio amplifier of the transmitter is overloaded</answer>
+        <answer id="D">The deviation of an FM transmitter is set too low</answer>
+      </question>
+      <question id="T7B03" correct="D">
+        <text>Which of the following can cause radio frequency interference?</text>
+        <answer id="A">Fundamental overload</answer>
+        <answer id="B">Harmonics</answer>
+        <answer id="C">Spurious emissions</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7B04" correct="D">
+        <text>Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?</text>
+        <answer id="A">Band-pass filter</answer>
+        <answer id="B">Low-pass filter</answer>
+        <answer id="C">Preamplifier</answer>
+        <answer id="D">Ferrite choke</answer>
+      </question>
+      <question id="T7B05" correct="A">
+        <text>How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?</text>
+        <answer id="A">Block the amateur signal with a filter at the antenna input of the affected receiver</answer>
+        <answer id="B">Block the interfering signal with a filter on the amateur transmitter</answer>
+        <answer id="C">Switch the transmitter from FM to SSB</answer>
+        <answer id="D">Switch the transmitter to a narrow-band mode</answer>
+      </question>
+      <question id="T7B06" correct="A">
+        <text>Which of the following actions should you take if a neighbor tells you that your station’s transmissions are interfering with their radio or TV reception?</text>
+        <answer id="A">Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel</answer>
+        <answer id="B">Immediately turn off your transmitter and contact the nearest FCC office for assistance</answer>
+        <answer id="C">Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7B07" correct="D">
+        <text>Which of the following can reduce overload of a VHF transceiver by a nearby commercial FM station?</text>
+        <answer id="A">Installing an RF preamplifier</answer>
+        <answer id="B">Using double-shielded coaxial cable</answer>
+        <answer id="C">Installing bypass capacitors on the microphone cable</answer>
+        <answer id="D">Installing a band-reject filter</answer>
+      </question>
+      <question id="T7B08" correct="D">
+        <text>What should you do if something in a neighbor’s home is causing harmful interference to your amateur station?</text>
+        <answer id="A">Work with your neighbor to identify the offending device</answer>
+        <answer id="B">Politely inform your neighbor that FCC rules prohibit the use of devices that cause interference</answer>
+        <answer id="C">Make sure your station meets the standards of good amateur practice</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7B09" correct="D">
+        <text>What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?</text>
+        <answer id="A">Add a low-pass filter to the TV antenna input</answer>
+        <answer id="B">Add a high-pass filter to the TV antenna input</answer>
+        <answer id="C">Add a preamplifier to the TV antenna input</answer>
+        <answer id="D">Be sure all TV feed line coaxial connectors are installed properly</answer>
+      </question>
+      <question id="T7B10" correct="D">
+        <text>What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or unintelligible?</text>
+        <answer id="A">Your transmitter is slightly off frequency</answer>
+        <answer id="B">Your batteries are running low</answer>
+        <answer id="C">You are in a bad location</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7B11" correct="C">
+        <text>What is a symptom of RF feedback in a transmitter or transceiver?</text>
+        <answer id="A">Excessive SWR at the antenna connection</answer>
+        <answer id="B">The transmitter will not stay on the desired frequency</answer>
+        <answer id="C">Reports of garbled, distorted, or unintelligible voice transmissions</answer>
+        <answer id="D">Frequent blowing of power supply fuses</answer>
+      </question>
+    </group>
+    <group id="T7C">
+      <description>T7C – Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR, causes of feed line failures; Basic coaxial cable characteristics; Use of dummy loads when testing</description>
+      <question id="T7C01" correct="A">
+        <text>What is the primary purpose of a dummy load?</text>
+        <answer id="A">To prevent transmitting signals over the air when making tests</answer>
+        <answer id="B">To prevent over-modulation of a transmitter</answer>
+        <answer id="C">To improve the efficiency of an antenna</answer>
+        <answer id="D">To improve the signal-to-noise ratio of a receiver</answer>
+      </question>
+      <question id="T7C02" correct="B">
+        <text>Which of the following is used to determine if an antenna is resonant at the desired operating frequency?</text>
+        <answer id="A">A VTVM</answer>
+        <answer id="B">An antenna analyzer</answer>
+        <answer id="C">A Q meter</answer>
+        <answer id="D">A frequency counter</answer>
+      </question>
+      <question id="T7C03" correct="B">
+        <text>What does a dummy load consist of?</text>
+        <answer id="A">A high-gain amplifier and a TR switch</answer>
+        <answer id="B">A non-inductive resistor mounted on a heat sink</answer>
+        <answer id="C">A low-voltage power supply and a DC relay</answer>
+        <answer id="D">A 50-ohm reactance used to terminate a transmission line</answer>
+      </question>
+      <question id="T7C04" correct="C">
+        <text>What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?</text>
+        <answer id="A">50:50</answer>
+        <answer id="B">Zero</answer>
+        <answer id="C">1:1</answer>
+        <answer id="D">Full Scale</answer>
+      </question>
+      <question id="T7C05" correct="A">
+        <text>Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?</text>
+        <answer id="A">To protect the output amplifier transistors</answer>
+        <answer id="B">To comply with FCC rules on spectral purity</answer>
+        <answer id="C">Because power supplies cannot supply enough current at high SWR</answer>
+        <answer id="D">To lower the SWR on the transmission line</answer>
+      </question>
+      <question id="T7C06" correct="D">
+        <text>What does an SWR reading of 4:1 indicate?</text>
+        <answer id="A">Loss of -4 dB</answer>
+        <answer id="B">Good impedance match</answer>
+        <answer id="C">Gain of +4 dB</answer>
+        <answer id="D">Impedance mismatch</answer>
+      </question>
+      <question id="T7C07" correct="C">
+        <text>What happens to power lost in a feed line?</text>
+        <answer id="A">It increases the SWR</answer>
+        <answer id="B">It is radiated as harmonics</answer>
+        <answer id="C">It is converted into heat</answer>
+        <answer id="D">It distorts the signal</answer>
+      </question>
+      <question id="T7C08" correct="D">
+        <text>Which instrument can be used to determine SWR?</text>
+        <answer id="A">Voltmeter</answer>
+        <answer id="B">Ohmmeter</answer>
+        <answer id="C">Iambic pentameter</answer>
+        <answer id="D">Directional wattmeter</answer>
+      </question>
+      <question id="T7C09" correct="A">
+        <text>Which of the following causes failure of coaxial cables?</text>
+        <answer id="A">Moisture contamination</answer>
+        <answer id="B">Solder flux contamination</answer>
+        <answer id="C">Rapid fluctuation in transmitter output power</answer>
+        <answer id="D">Operation at 100% duty cycle for an extended period</answer>
+      </question>
+      <question id="T7C10" correct="D">
+        <text>Why should the outer jacket of coaxial cable be resistant to ultraviolet light?</text>
+        <answer id="A">Ultraviolet resistant jackets prevent harmonic radiation</answer>
+        <answer id="B">Ultraviolet light can increase losses in the cable’s jacket</answer>
+        <answer id="C">Ultraviolet and RF signals can mix, causing interference</answer>
+        <answer id="D">Ultraviolet light can damage the jacket and allow water to enter the cable</answer>
+      </question>
+      <question id="T7C11" correct="C">
+        <text>What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?</text>
+        <answer id="A">It has more loss per foot</answer>
+        <answer id="B">It cannot be used for VHF or UHF antennas</answer>
+        <answer id="C">It requires special techniques to prevent moisture in the cable</answer>
+        <answer id="D">It cannot be used at below freezing temperatures</answer>
+      </question>
+    </group>
+    <group id="T7D">
+      <description>T7D – Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering</description>
+      <question id="T7D01" correct="B">
+        <text>Which instrument would you use to measure electric potential?</text>
+        <answer id="A">An ammeter</answer>
+        <answer id="B">A voltmeter</answer>
+        <answer id="C">A wavemeter</answer>
+        <answer id="D">An ohmmeter</answer>
+      </question>
+      <question id="T7D02" correct="B">
+        <text>How is a voltmeter connected to a component to measure applied voltage?</text>
+        <answer id="A">In series</answer>
+        <answer id="B">In parallel</answer>
+        <answer id="C">In quadrature</answer>
+        <answer id="D">In phase</answer>
+      </question>
+      <question id="T7D03" correct="A">
+        <text>When configured to measure current, how is a multimeter connected to a component?</text>
+        <answer id="A">In series</answer>
+        <answer id="B">In parallel</answer>
+        <answer id="C">In quadrature</answer>
+        <answer id="D">In phase</answer>
+      </question>
+      <question id="T7D04" correct="D">
+        <text>Which instrument is used to measure electric current?</text>
+        <answer id="A">An ohmmeter</answer>
+        <answer id="B">An electrometer</answer>
+        <answer id="C">A voltmeter</answer>
+        <answer id="D">An ammeter</answer>
+      </question>
+      <question id="T7D05" disabled="true">
+        <text>Question Removed (section not renumbered)</text>
+      </question>
+      <question id="T7D06" correct="C">
+        <text>Which of the following can damage a multimeter?</text>
+        <answer id="A">Attempting to measure resistance using the voltage setting</answer>
+        <answer id="B">Failing to connect one of the probes to ground</answer>
+        <answer id="C">Attempting to measure voltage when using the resistance setting</answer>
+        <answer id="D">Not allowing it to warm up properly</answer>
+      </question>
+      <question id="T7D07" correct="C">
+        <text>Which of the following measurements are made using a multimeter?</text>
+        <answer id="A">Signal strength and noise</answer>
+        <answer id="B">Impedance and reactance</answer>
+        <answer id="C">Voltage and resistance</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T7D08" correct="A">
+        <text>Which of the following types of solder should not be used for radio and electronic applications?</text>
+        <answer id="A">Acid-core solder</answer>
+        <answer id="B">Lead-tin solder</answer>
+        <answer id="C">Rosin-core solder</answer>
+        <answer id="D">Tin-copper solder</answer>
+      </question>
+      <question id="T7D09" correct="C">
+        <text>What is the characteristic appearance of a cold tin-lead solder joint?</text>
+        <answer id="A">Dark black spots</answer>
+        <answer id="B">A bright or shiny surface</answer>
+        <answer id="C">A rough or lumpy surface</answer>
+        <answer id="D">Excessive solder</answer>
+      </question>
+      <question id="T7D10" correct="A" >
+        <text>What reading indicates that an ohmmeter is connected across a large, discharged capacitor?</text>
+        <answer id="A">Increasing resistance with time</answer>
+        <answer id="B">Decreasing resistance with time</answer>
+        <answer id="C">Steady full-scale reading</answer>
+        <answer id="D">Alternating between open and short circuit</answer>
+      </question>
+      <question id="T7D11" correct="B">
+        <text>Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?</text>
+        <answer id="A">Ensure that the applied voltages are correct</answer>
+        <answer id="B">Ensure that the circuit is not powered</answer>
+        <answer id="C">Ensure that the circuit is grounded</answer>
+        <answer id="D">Ensure that the circuit is operating at the correct frequency</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T8">
+    <description>SUBELEMENT T8 – SIGNALS AND EMISSIONS – [4 Exam Questions - 4 Groups]</description>
+    <group id="T8A">
+      <description>T8A – Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV; Choice of emission type: selection of USB vs LSB, use of SSB for weak signal work, use of FM for VHF packet and repeaters</description>
+      <question id="T8A01" correct="C">
+        <text>Which of the following is a form of amplitude modulation?</text>
+        <answer id="A">Spread spectrum</answer>
+        <answer id="B">Packet radio</answer>
+        <answer id="C">Single sideband</answer>
+        <answer id="D">Phase shift keying (PSK)</answer>
+      </question>
+      <question id="T8A02" correct="A">
+        <text>What type of modulation is commonly used for VHF packet radio transmissions?</text>
+        <answer id="A">FM or PM</answer>
+        <answer id="B">SSB</answer>
+        <answer id="C">AM</answer>
+        <answer id="D">PSK</answer>
+      </question>
+      <question id="T8A03" correct="C">
+        <text>Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?</text>
+        <answer id="A">FM</answer>
+        <answer id="B">DRM</answer>
+        <answer id="C">SSB</answer>
+        <answer id="D">PM</answer>
+      </question>
+      <question id="T8A04" correct="D">
+        <text>Which type of modulation is commonly used for VHF and UHF voice repeaters?</text>
+        <answer id="A">AM</answer>
+        <answer id="B">SSB</answer>
+        <answer id="C">PSK</answer>
+        <answer id="D">FM or PM</answer>
+      </question>
+      <question id="T8A05" correct="C">
+        <text>Which of the following types of signal has the narrowest bandwidth?</text>
+        <answer id="A">FM voice</answer>
+        <answer id="B">SSB voice</answer>
+        <answer id="C">CW</answer>
+        <answer id="D">Slow-scan TV</answer>
+      </question>
+      <question id="T8A06" correct="A">
+        <text>Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?</text>
+        <answer id="A">Upper sideband</answer>
+        <answer id="B">Lower sideband</answer>
+        <answer id="C">Suppressed sideband</answer>
+        <answer id="D">Inverted sideband</answer>
+      </question>
+      <question id="T8A07" correct="C">
+        <text>What is a characteristic of single sideband (SSB) compared to FM?</text>
+        <answer id="A">SSB signals are easier to tune in correctly</answer>
+        <answer id="B">SSB signals are less susceptible to interference</answer>
+        <answer id="C">SSB signals have narrower bandwidth</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8A08" correct="B">
+        <text>What is the approximate bandwidth of a typical single sideband (SSB) voice signal?</text>
+        <answer id="A">1 kHz</answer>
+        <answer id="B">3 kHz</answer>
+        <answer id="C">6 kHz</answer>
+        <answer id="D">15 kHz</answer>
+      </question>
+      <question id="T8A09" correct="C">
+        <text>What is the approximate bandwidth of a VHF repeater FM voice signal?</text>
+        <answer id="A">Less than 500 Hz</answer>
+        <answer id="B">About 150 kHz</answer>
+        <answer id="C">Between 10 and 15 kHz</answer>
+        <answer id="D">Between 50 and 125 kHz</answer>
+      </question>
+      <question id="T8A10" correct="B">
+        <text>What is the approximate bandwidth of AM fast-scan TV transmissions?</text>
+        <answer id="A">More than 10 MHz</answer>
+        <answer id="B">About 6 MHz</answer>
+        <answer id="C">About 3 MHz</answer>
+        <answer id="D">About 1 MHz</answer>
+      </question>
+      <question id="T8A11" correct="B">
+        <text>What is the approximate bandwidth required to transmit a CW signal?</text>
+        <answer id="A">2.4 kHz</answer>
+        <answer id="B">150 Hz</answer>
+        <answer id="C">1000 Hz</answer>
+        <answer id="D">15 kHz</answer>
+      </question>
+      <question id="T8A12" correct="B">
+        <text>Which of the following is a disadvantage of FM compared with single sideband?</text>
+        <answer id="A">Voice quality is poorer</answer>
+        <answer id="B">Only one signal can be received at a time</answer>
+        <answer id="C">FM signals are harder to tune</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+    </group>
+    <group id="T8B">
+      <description>T8B - Amateur satellite operation: Doppler shift, basic orbits, operating protocols, modulation mode selection, transmitter power considerations, telemetry and telecommand, satellite tracking programs, beacons, uplink and downlink mode definitions, spin fading, definition of “LEO”, setting uplink power</description>
+      <question id="T8B01" correct="C">
+        <text>What telemetry information is typically transmitted by satellite beacons?</text>
+        <answer id="A">The signal strength of received signals</answer>
+        <answer id="B">Time of day accurate to plus or minus 1/10 second</answer>
+        <answer id="C">Health and status of the satellite</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8B02" correct="B">
+        <text>What is the impact of using excessive effective radiated power on a satellite uplink?</text>
+        <answer id="A">Possibility of commanding the satellite to an improper mode</answer>
+        <answer id="B">Blocking access by other users</answer>
+        <answer id="C">Overloading the satellite batteries</answer>
+        <answer id="D">Possibility of rebooting the satellite control computer</answer>
+      </question>
+      <question id="T8B03" correct="D">
+        <text>Which of the following are provided by satellite tracking programs?</text>
+        <answer id="A">Maps showing the real-time position of the satellite track over Earth</answer>
+        <answer id="B">The time, azimuth, and elevation of the start, maximum altitude, and end of a pass</answer>
+        <answer id="C">The apparent frequency of the satellite transmission, including effects of Doppler shift</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8B04" correct="D">
+        <text>What mode of transmission is commonly used by amateur radio satellites?</text>
+        <answer id="A">SSB</answer>
+        <answer id="B">FM</answer>
+        <answer id="C">CW/data</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8B05" correct="D">
+        <text>What is a satellite beacon?</text>
+        <answer id="A">The primary transmit antenna on the satellite</answer>
+        <answer id="B">An indicator light that shows where to point your antenna</answer>
+        <answer id="C">A reflective surface on the satellite</answer>
+        <answer id="D">A transmission from a satellite that contains status information</answer>
+      </question>
+      <question id="T8B06" correct="B">
+        <text>Which of the following are inputs to a satellite tracking program?</text>
+        <answer id="A">The satellite transmitted power</answer>
+        <answer id="B">The Keplerian elements</answer>
+        <answer id="C">The last observed time of zero Doppler shift</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8B07" correct="C">
+        <text>What is Doppler shift in reference to satellite communications?</text>
+        <answer id="A">A change in the satellite orbit</answer>
+        <answer id="B">A mode where the satellite receives signals on one band and transmits on another</answer>
+        <answer id="C">An observed change in signal frequency caused by relative motion between the satellite and Earth station</answer>
+        <answer id="D">A special digital communications mode for some satellites</answer>
+      </question>
+      <question id="T8B08" correct="B">
+        <text>What is meant by the statement that a satellite is operating in U/V mode?</text>
+        <answer id="A">The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band</answer>
+        <answer id="B">The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band</answer>
+        <answer id="C">The satellite operates using ultraviolet frequencies</answer>
+        <answer id="D">The satellite frequencies are usually variable</answer>
+      </question>
+      <question id="T8B09" correct="B">
+        <text>What causes spin fading of satellite signals?</text>
+        <answer id="A">Circular polarized noise interference radiated from the sun</answer>
+        <answer id="B">Rotation of the satellite and its antennas</answer>
+        <answer id="C">Doppler shift of the received signal</answer>
+        <answer id="D">Interfering signals within the satellite uplink band</answer>
+      </question>
+      <question id="T8B10" correct="D">
+        <text>What is a LEO satellite?</text>
+        <answer id="A">A sun synchronous satellite</answer>
+        <answer id="B">A highly elliptical orbit satellite</answer>
+        <answer id="C">A satellite in low energy operation mode</answer>
+        <answer id="D">A satellite in low earth orbit</answer>
+      </question>
+      <question id="T8B11" correct="A">
+        <text>Who may receive telemetry from a space station?</text>
+        <answer id="A">Anyone</answer>
+        <answer id="B">A licensed radio amateur with a transmitter equipped for interrogating the satellite</answer>
+        <answer id="C">A licensed radio amateur who has been certified by the protocol developer</answer>
+        <answer id="D">A licensed radio amateur who has registered for an access code from AMSAT</answer>
+      </question>
+      <question id="T8B12" correct="C">
+        <text>Which of the following is a way to determine whether your satellite uplink power is neither too low nor too high?</text>
+        <answer id="A">Check your signal strength report in the telemetry data</answer>
+        <answer id="B">Listen for distortion on your downlink signal</answer>
+        <answer id="C">Your signal strength on the downlink should be about the same as the beacon</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+    </group>
+    <group id="T8C">
+      <description>T8C – Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators</description>
+      <question id="T8C01" correct="C">
+        <text>Which of the following methods is used to locate sources of noise interference or jamming?</text>
+        <answer id="A">Echolocation</answer>
+        <answer id="B">Doppler radar</answer>
+        <answer id="C">Radio direction finding</answer>
+        <answer id="D">Phase locking</answer>
+      </question>
+      <question id="T8C02" correct="B">
+        <text>Which of these items would be useful for a hidden transmitter hunt?</text>
+        <answer id="A">Calibrated SWR meter</answer>
+        <answer id="B">A directional antenna</answer>
+        <answer id="C">A calibrated noise bridge</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8C03" correct="D">
+        <text>What operating activity involves contacting as many stations as possible during a specified period?</text>
+        <answer id="A">Simulated emergency exercises</answer>
+        <answer id="B">Net operations</answer>
+        <answer id="C">Public service events</answer>
+        <answer id="D">Contesting</answer>
+      </question>
+      <question id="T8C04" correct="C">
+        <text>Which of the following is good procedure when contacting another station in a contest?</text>
+        <answer id="A">Sign only the last two letters of your call if there are many other stations calling</answer>
+        <answer id="B">Contact the station twice to be sure that you are in his log</answer>
+        <answer id="C">Send only the minimum information needed for proper identification and the contest exchange</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8C05" correct="A">
+        <text>What is a grid locator?</text>
+        <answer id="A">A letter-number designator assigned to a geographic location</answer>
+        <answer id="B">A letter-number designator assigned to an azimuth and elevation</answer>
+        <answer id="C">An instrument for neutralizing a final amplifier</answer>
+        <answer id="D">An instrument for radio direction finding</answer>
+      </question>
+      <question id="T8C06" correct="B">
+        <text>How is over the air access to IRLP nodes accomplished?</text>
+        <answer id="A">By obtaining a password that is sent via voice to the node</answer>
+        <answer id="B">By using DTMF signals</answer>
+        <answer id="C">By entering the proper internet password</answer>
+        <answer id="D">By using CTCSS tone codes</answer>
+      </question>
+      <question id="T8C07" correct="D">
+        <text>What is Voice Over Internet Protocol (VoIP)?</text>
+        <answer id="A">A set of rules specifying how to identify your station when linked over the internet to another station</answer>
+        <answer id="B">A technique employed to “spot” DX stations via the internet</answer>
+        <answer id="C">A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet</answer>
+        <answer id="D">A method of delivering voice communications over the internet using digital techniques</answer>
+      </question>
+      <question id="T8C08" correct="A">
+        <text>What is the Internet Radio Linking Project (IRLP)?</text>
+        <answer id="A">A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol (VoIP)</answer>
+        <answer id="B">A system for providing access to websites via amateur radio</answer>
+        <answer id="C">A system for informing amateurs in real time of the frequency of active DX stations</answer>
+        <answer id="D">A technique for measuring signal strength of an amateur transmitter via the internet</answer>
+      </question>
+      <question id="T8C09" correct="D">
+        <text>Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?</text>
+        <answer id="A">IRLP</answer>
+        <answer id="B">D-STAR</answer>
+        <answer id="C">DMR</answer>
+        <answer id="D">EchoLink</answer>
+      </question>
+      <question id="T8C10" correct="C">
+        <text>What is required before using the EchoLink system?</text>
+        <answer id="A">Complete the required EchoLink training</answer>
+        <answer id="B">Purchase a license to use the EchoLink software</answer>
+        <answer id="C">Register your call sign and provide proof of license</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8C11" correct="A">
+        <text>What is an amateur radio station that connects other amateur stations to the internet?</text>
+        <answer id="A">A gateway</answer>
+        <answer id="B">A repeater</answer>
+        <answer id="C">A digipeater</answer>
+        <answer id="D">A beacon</answer>
+      </question>
+    </group>
+    <group id="T8D">
+      <description>T8D – Non-voice and digital communications: image signals and definition of NTSC, CW, packet radio, PSK, APRS, error detection and correction, amateur radio networking, Digital Mobile Radio, WSJT modes, Broadband-Hamnet</description>
+      <question id="T8D01" correct="D">
+        <text>Which of the following is a digital communications mode?</text>
+        <answer id="A">Packet radio</answer>
+        <answer id="B">IEEE 802.11</answer>
+        <answer id="C">FT8</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8D02" correct="B">
+        <text>What is a “talkgroup” on a DMR repeater?</text>
+        <answer id="A">A group of operators sharing common interests</answer>
+        <answer id="B">A way for groups of users to share a channel at different times without hearing other users on the channel</answer>
+        <answer id="C">A protocol that increases the signal-to-noise ratio when multiple repeaters are linked together</answer>
+        <answer id="D">A net that meets at a specified time</answer>
+      </question>
+      <question id="T8D03" correct="D">
+        <text>What kind of data can be transmitted by APRS?</text>
+        <answer id="A">GPS position data</answer>
+        <answer id="B">Text messages</answer>
+        <answer id="C">Weather data</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8D04" correct="C">
+        <text>What type of transmission is indicated by the term "NTSC?"</text>
+        <answer id="A">A Normal Transmission mode in Static Circuit</answer>
+        <answer id="B">A special mode for satellite uplink</answer>
+        <answer id="C">An analog fast-scan color TV signal</answer>
+        <answer id="D">A frame compression scheme for TV signals</answer>
+      </question>
+      <question id="T8D05" correct="A">
+        <text>Which of the following is an application of APRS?</text>
+        <answer id="A">Providing real-time tactical digital communications in conjunction with a map showing the locations of stations</answer>
+        <answer id="B">Showing automatically the number of packets transmitted via PACTOR during a specific time interval</answer>
+        <answer id="C">Providing voice over internet connection between repeaters</answer>
+        <answer id="D">Providing information on the number of stations signed into a repeater</answer>
+      </question>
+      <question id="T8D06" correct="B">
+        <text>What does the abbreviation "PSK" mean?</text>
+        <answer id="A">Pulse Shift Keying</answer>
+        <answer id="B">Phase Shift Keying</answer>
+        <answer id="C">Packet Short Keying</answer>
+        <answer id="D">Phased Slide Keying</answer>
+      </question>
+      <question id="T8D07" correct="A">
+        <text>Which of the following describes DMR?</text>
+        <answer id="A">A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel</answer>
+        <answer id="B">An automatic position tracking mode for FM mobiles communicating through repeaters</answer>
+        <answer id="C">An automatic computer logging technique for hands-off logging when communicating while operating a vehicle</answer>
+        <answer id="D">A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction</answer>
+      </question>
+      <question id="T8D08" correct="D">
+        <text>Which of the following is included in packet radio transmissions?</text>
+        <answer id="A">A check sum that permits error detection</answer>
+        <answer id="B">A header that contains the call sign of the station to which the information is being sent</answer>
+        <answer id="C">Automatic repeat request in case of error</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8D09" correct="D">
+        <text>What is CW?</text>
+        <answer id="A">A type of electromagnetic propagation</answer>
+        <answer id="B">A digital mode used primarily on 2 meter FM</answer>
+        <answer id="C">A technique for coil winding</answer>
+        <answer id="D">Another name for a Morse code transmission</answer>
+      </question>
+      <question id="T8D10" correct="D">
+        <text>Which of the following operating activities is supported by digital mode software in the WSJT-X software suite?  </text>
+        <answer id="A">Earth-Moon-Earth</answer>
+        <answer id="B">Weak signal propagation beacons</answer>
+        <answer id="C">Meteor scatter</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T8D11" correct="C">
+        <text>What is an ARQ transmission system?</text>
+        <answer id="A">A special transmission format limited to video signals</answer>
+        <answer id="B">A system used to encrypt command signals to an amateur radio satellite</answer>
+        <answer id="C">An error correction method in which the receiving station detects errors and sends a request for retransmission</answer>
+        <answer id="D">A method of compressing data using autonomous reiterative Q codes prior to final encoding</answer>
+      </question>
+      <question id="T8D12" correct="A">
+        <text>Which of the following best describes an amateur radio mesh network?</text>
+        <answer id="A">An amateur-radio based data network using commercial Wi-Fi equipment with modified firmware</answer>
+        <answer id="B">A wide-bandwidth digital voice mode employing DMR protocols</answer>
+        <answer id="C">A satellite communications network using modified commercial satellite TV hardware</answer>
+        <answer id="D">An internet linking protocol used to network repeaters</answer>
+      </question>
+      <question id="T8D13" correct="B">
+        <text>What is FT8?</text>
+        <answer id="A">A wideband FM voice mode</answer>
+        <answer id="B">A digital mode capable of low signal-to-noise operation</answer>
+        <answer id="C">An eight channel multiplex mode for FM repeaters</answer>
+        <answer id="D">A digital slow-scan TV mode with forward error correction and automatic color compensation</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T9">
+    <description>SUBELEMENT T9 – ANTENNAS AND FEED LINES - [2 Exam Questions - 2 Groups]</description>
+    <group id="T9A">
+      <description>T9A – Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam antennas, antenna loading, common portable and mobile antennas, relationships between resonant length and frequency, dipole pattern</description>
+      <question id="T9A01" correct="C">
+        <text>What is a beam antenna?</text>
+        <answer id="A">An antenna built from aluminum I-beams</answer>
+        <answer id="B">An omnidirectional antenna invented by Clarence Beam</answer>
+        <answer id="C">An antenna that concentrates signals in one direction</answer>
+        <answer id="D">An antenna that reverses the phase of received signals</answer>
+      </question>
+      <question id="T9A02" correct="A">
+        <text>Which of the following describes a type of antenna loading?</text>
+        <answer id="A">Electrically lengthening by inserting inductors in radiating elements</answer>
+        <answer id="B">Inserting a resistor in the radiating portion of the antenna to make it resonant</answer>
+        <answer id="C">Installing a spring in the base of a mobile vertical antenna to make it more flexible</answer>
+        <answer id="D">Strengthening the radiating elements of a beam antenna to better resist wind damage</answer>
+      </question>
+      <question id="T9A03" correct="B">
+        <text>Which of the following describes a simple dipole oriented parallel to Earth's surface?</text>
+        <answer id="A">A ground-wave antenna</answer>
+        <answer id="B">A horizontally polarized antenna</answer>
+        <answer id="C">A travelling-wave antenna</answer>
+        <answer id="D">A vertically polarized antenna</answer>
+      </question>
+      <question id="T9A04" correct="A">
+        <text>What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?</text>
+        <answer id="A">It has low efficiency</answer>
+        <answer id="B">It transmits only circularly polarized signals</answer>
+        <answer id="C">It is mechanically fragile</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T9A05" correct="C">
+        <text>Which of the following increases the resonant frequency of a dipole antenna?</text>
+        <answer id="A">Lengthening it</answer>
+        <answer id="B">Inserting coils in series with radiating wires</answer>
+        <answer id="C">Shortening it</answer>
+        <answer id="D">Adding capacitive loading to the ends of the radiating wires</answer>
+      </question>
+      <question id="T9A06" correct="D">
+        <text>Which of the following types of antenna offers the greatest gain?</text>
+        <answer id="A">5/8 wave vertical</answer>
+        <answer id="B">Isotropic</answer>
+        <answer id="C">J pole</answer>
+        <answer id="D">Yagi</answer>
+      </question>
+      <question id="T9A07" correct="A">
+        <text>What is a disadvantage of using a handheld VHF transceiver with a flexible antenna inside a vehicle?</text>
+        <answer id="A">Signal strength is reduced due to the shielding effect of the vehicle</answer>
+        <answer id="B">The bandwidth of the antenna will decrease, increasing SWR</answer>
+        <answer id="C">The SWR might decrease, decreasing the signal strength</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T9A08" correct="C">
+        <text>What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?</text>
+        <answer id="A">112</answer>
+        <answer id="B">50</answer>
+        <answer id="C">19</answer>
+        <answer id="D">12</answer>
+      </question>
+      <question id="T9A09" correct="C">
+        <text>What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?</text>
+        <answer id="A">6</answer>
+        <answer id="B">50</answer>
+        <answer id="C">112</answer>
+        <answer id="D">236</answer>
+      </question>
+      <question id="T9A10" correct="D">
+        <text>In which direction does a half-wave dipole antenna radiate the strongest signal?</text>
+        <answer id="A">Equally in all directions</answer>
+        <answer id="B">Off the ends of the antenna</answer>
+        <answer id="C">In the direction of the feed line</answer>
+        <answer id="D">Broadside to the antenna</answer>
+      </question>
+      <question id="T9A11" correct="C">
+        <text>What is antenna gain?</text>
+        <answer id="A">The additional power that is added to the transmitter power</answer>
+        <answer id="B">The additional power that is required in the antenna when transmitting on a higher frequency</answer>
+        <answer id="C">The increase in signal strength in a specified direction compared to a reference antenna</answer>
+        <answer id="D">The increase in impedance on receive or transmit compared to a reference antenna</answer>
+      </question>
+      <question id="T9A12" correct="A">
+        <text>What is an advantage of a 5/8 wavelength whip antenna for VHF or UHF mobile service?</text>
+        <answer id="A">It has more gain than a 1/4-wavelength antenna</answer>
+        <answer id="B">It radiates at a very high angle</answer>
+        <answer id="C">It eliminates distortion caused by reflected signals</answer>
+        <answer id="D">It has 10 times the power gain of a 1/4 wavelength whip</answer>
+      </question>
+    </group>
+    <group id="T9B">
+      <description>T9B – Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF Connectors: selecting, weather protection</description>
+      <question id="T9B01" correct="B">
+        <text>What is a benefit of low SWR?</text>
+        <answer id="A">Reduced television interference</answer>
+        <answer id="B">Reduced signal loss</answer>
+        <answer id="C">Less antenna wear</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T9B02" correct="B">
+        <text>What is the most common impedance of coaxial cables used in amateur radio?</text>
+        <answer id="A">8 ohms</answer>
+        <answer id="B">50 ohms</answer>
+        <answer id="C">600 ohms</answer>
+        <answer id="D">12 ohms</answer>
+      </question>
+      <question id="T9B03" correct="A">
+        <text>Why is coaxial cable the most common feed line for amateur radio antenna systems?</text>
+        <answer id="A">It is easy to use and requires few special installation considerations</answer>
+        <answer id="B">It has less loss than any other type of feed line</answer>
+        <answer id="C">It can handle more power than any other type of feed line</answer>
+        <answer id="D">It is less expensive than any other type of feed line</answer>
+      </question>
+      <question id="T9B04" correct="A">
+        <text>What is the major function of an antenna tuner (antenna coupler)?</text>
+        <answer id="A">It matches the antenna system impedance to the transceiver's output impedance</answer>
+        <answer id="B">It helps a receiver automatically tune in weak stations</answer>
+        <answer id="C">It allows an antenna to be used on both transmit and receive</answer>
+        <answer id="D">It automatically selects the proper antenna for the frequency band being used</answer>
+      </question>
+      <question id="T9B05" correct="D">
+        <text>What happens as the frequency of a signal in coaxial cable is increased?</text>
+        <answer id="A">The characteristic impedance decreases</answer>
+        <answer id="B">The loss decreases</answer>
+        <answer id="C">The characteristic impedance increases</answer>
+        <answer id="D">The loss increases</answer>
+      </question>
+      <question id="T9B06" correct="B">
+        <text>Which of the following RF connector types is most suitable for frequencies above 400 MHz?</text>
+        <answer id="A">UHF (PL-259/SO-239)</answer>
+        <answer id="B">Type N</answer>
+        <answer id="C">RS-213</answer>
+        <answer id="D">DB-25</answer>
+      </question>
+      <question id="T9B07" correct="C">
+        <text>Which of the following is true of PL-259 type coax connectors?</text>
+        <answer id="A">They are preferred for microwave operation</answer>
+        <answer id="B">They are watertight</answer>
+        <answer id="C">They are commonly used at HF and VHF frequencies</answer>
+        <answer id="D">They are a bayonet-type connector</answer>
+      </question>
+      <question id="T9B08" correct="D">
+        <text>Which of the following is a source of loss in coaxial feed line?</text>
+        <answer id="A">Water intrusion into coaxial connectors</answer>
+        <answer id="B">High SWR</answer>
+        <answer id="C">Multiple connectors in the line</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T9B09" correct="B">
+        <text>What can cause erratic changes in SWR?</text>
+        <answer id="A">Local thunderstorm</answer>
+        <answer id="B">Loose connection in the antenna or feed line</answer>
+        <answer id="C">Over-modulation</answer>
+        <answer id="D">Overload from a strong local station</answer>
+      </question>
+      <question id="T9B10" correct="C">
+        <text>What is the electrical difference between RG-58 and RG-213 coaxial cable?</text>
+        <answer id="A">There is no significant difference between the two types</answer>
+        <answer id="B">RG-58 cable has two shields</answer>
+        <answer id="C">RG-213 cable has less loss at a given frequency</answer>
+        <answer id="D">RG-58 cable can handle higher power levels</answer>
+      </question>
+      <question id="T9B11" correct="C">
+        <text>Which of the following types of feed line has the lowest loss at VHF and UHF?</text>
+        <answer id="A">50-ohm flexible coax</answer>
+        <answer id="B">Multi-conductor unbalanced cable</answer>
+        <answer id="C">Air-insulated hardline</answer>
+        <answer id="D">75-ohm flexible coax</answer>
+      </question>
+      <question id="T9B12" correct="A">
+        <text>What is standing wave ratio (SWR)?</text>
+        <answer id="A">A measure of how well a load is matched to a transmission line</answer>
+        <answer id="B">The ratio of amplifier power output to input</answer>
+        <answer id="C">The transmitter efficiency ratio</answer>
+        <answer id="D">An indication of the quality of your station’s ground connection</answer>
+      </question>
+    </group>
+  </subelement>
+  <subelement id="T0">
+    <description>SUBELEMENT T0 – SAFETY – [3 Exam Questions - 3 Groups]</description>
+    <group id="T0A">
+      <description>T0A – Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code compliance; Lightning protection; Battery safety</description>
+      <question id="T0A01" correct="B">
+        <text>Which of the following is a safety hazard of a 12-volt storage battery?</text>
+        <answer id="A">Touching both terminals with the hands can cause electrical shock</answer>
+        <answer id="B">Shorting the terminals can cause burns, fire, or an explosion</answer>
+        <answer id="C">RF emissions from a nearby transmitter can cause the electrolyte to emit poison gas</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0A02" correct="D">
+        <text>What health hazard is presented by electrical current flowing through the body?</text>
+        <answer id="A">It may cause injury by heating tissue</answer>
+        <answer id="B">It may disrupt the electrical functions of cells</answer>
+        <answer id="C">It may cause involuntary muscle contractions</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0A03" correct="B">
+        <text>In the United States, what circuit does black wire insulation indicate in a three-wire 120 V cable?</text>
+        <answer id="A">Neutral</answer>
+        <answer id="B">Hot</answer>
+        <answer id="C">Equipment ground</answer>
+        <answer id="D">Black insulation is never used</answer>
+      </question>
+      <question id="T0A04" correct="B">
+        <text>What is the purpose of a fuse in an electrical circuit?</text>
+        <answer id="A">To prevent power supply ripple from damaging a component</answer>
+        <answer id="B">To remove power in case of overload</answer>
+        <answer id="C">To limit current to prevent shocks</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0A05" correct="C">
+        <text>Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?</text>
+        <answer id="A">The larger fuse would be likely to blow because it is rated for higher current</answer>
+        <answer id="B">The power supply ripple would greatly increase</answer>
+        <answer id="C">Excessive current could cause a fire</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0A06" correct="D">
+        <text>What is a good way to guard against electrical shock at your station?</text>
+        <answer id="A">Use three-wire cords and plugs for all AC powered equipment</answer>
+        <answer id="B">Connect all AC powered station equipment to a common safety ground</answer>
+        <answer id="C">Install mechanical interlocks in high-voltage circuits</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0A07" correct="D">
+        <text>Where should a lightning arrester be installed in a coaxial feed line?</text>
+        <answer id="A">At the output connector of a transceiver</answer>
+        <answer id="B">At the antenna feed point</answer>
+        <answer id="C">At the ac power service panel</answer>
+        <answer id="D">On a grounded panel near where feed lines enter the building</answer>
+      </question>
+      <question id="T0A08" correct="A">
+        <text>Where should a fuse or circuit breaker be installed in a 120V AC power circuit?</text>
+        <answer id="A">In series with the hot conductor only</answer>
+        <answer id="B">In series with the hot and neutral conductors</answer>
+        <answer id="C">In parallel with the hot conductor only</answer>
+        <answer id="D">In parallel with the hot and neutral conductors</answer>
+      </question>
+      <question id="T0A09" correct="C">
+        <text>What should be done to all external ground rods or earth connections?</text>
+        <answer id="A">Waterproof them with silicone caulk or electrical tape</answer>
+        <answer id="B">Keep them as far apart as possible</answer>
+        <answer id="C">Bond them together with heavy wire or conductive strap</answer>
+        <answer id="D">Tune them for resonance on the lowest frequency of operation</answer>
+      </question>
+      <question id="T0A10" correct="A">
+        <text>What hazard is caused by charging or discharging a battery too quickly?</text>
+        <answer id="A">Overheating or out-gassing</answer>
+        <answer id="B">Excess output ripple</answer>
+        <answer id="C">Half-wave rectification</answer>
+        <answer id="D">Inverse memory effect</answer>
+      </question>
+      <question id="T0A11" correct="D">
+        <text>What hazard exists in a power supply immediately after turning it off?</text>
+        <answer id="A">Circulating currents in the dc filter</answer>
+        <answer id="B">Leakage flux in the power transformer</answer>
+        <answer id="C">Voltage transients from kickback diodes</answer>
+        <answer id="D">Charge stored in filter capacitors</answer>
+      </question>
+      <question id="T0A12" correct="B">
+        <text>Which of the following precautions should be taken when measuring high voltages with a voltmeter?</text>
+        <answer id="A">Ensure that the voltmeter has very low impedance</answer>
+        <answer id="B">Ensure that the voltmeter and leads are rated for use at the voltages to be measured</answer>
+        <answer id="C">Ensure that the circuit is grounded through the voltmeter</answer>
+        <answer id="D">Ensure that the voltmeter is set to the correct frequency</answer>
+      </question>
+    </group>
+    <group id="T0B">
+      <description>T0B – Antenna safety: tower safety and grounding, installing antennas, antenna supports</description>
+      <question id="T0B01" correct="C">
+        <text>Which of the following is good practice when installing ground wires on a tower for lightning protection?</text>
+        <answer id="A">Put a drip loop in the ground connection to prevent water damage to the ground system</answer>
+        <answer id="B">Make sure all ground wire bends are right angles</answer>
+        <answer id="C">Ensure that connections are short and direct</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0B02" correct="D">
+        <text>What is required when climbing an antenna tower?</text>
+        <answer id="A">Have sufficient training on safe tower climbing techniques</answer>
+        <answer id="B">Use appropriate tie-off to the tower at all times</answer>
+        <answer id="C">Always wear an approved climbing harness</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0B03" correct="D">
+        <text>Under what circumstances is it safe to climb a tower without a helper or observer?</text>
+        <answer id="A">When no electrical work is being performed</answer>
+        <answer id="B">When no mechanical work is being performed</answer>
+        <answer id="C">When the work being done is not more than 20 feet above the ground</answer>
+        <answer id="D">Never</answer>
+      </question>
+      <question id="T0B04" correct="C">
+        <text>Which of the following is an important safety precaution to observe when putting up an antenna tower?</text>
+        <answer id="A">Wear a ground strap connected to your wrist at all times</answer>
+        <answer id="B">Insulate the base of the tower to avoid lightning strikes</answer>
+        <answer id="C">Look for and stay clear of any overhead electrical wires</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0B05" correct="B">
+        <text>What is the purpose of a safety wire through a turnbuckle used to tension guy lines?</text>
+        <answer id="A">Secure the guy line if the turnbuckle breaks</answer>
+        <answer id="B">Prevent loosening of the turnbuckle from vibration</answer>
+        <answer id="C">Provide a ground path for lightning strikes</answer>
+        <answer id="D">Provide an ability to measure for proper tensioning</answer>
+      </question>
+      <question id="T0B06" correct="D">
+        <text>What is the minimum safe distance from a power line to allow when installing an antenna?</text>
+        <answer id="A">Add the height of the antenna to the height of the power line and multiply by a factor of 1.5</answer>
+        <answer id="B">The height of the power line above ground</answer>
+        <answer id="C">1/2 wavelength at the operating frequency</answer>
+        <answer id="D">Enough so that if the antenna falls, no part of it can come closer than 10 feet to the power wires</answer>
+      </question>
+      <question id="T0B07" correct="C">
+        <text>Which of the following is an important safety rule to remember when using a crank-up tower?</text>
+        <answer id="A">This type of tower must never be painted</answer>
+        <answer id="B">This type of tower must never be grounded</answer>
+        <answer id="C">This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0B08" correct="D">
+        <text>Which is a proper grounding method for a tower?</text>
+        <answer id="A">A single four-foot ground rod, driven into the ground no more than 12 inches from the base</answer>
+        <answer id="B">A ferrite-core RF choke connected between the tower and ground</answer>
+        <answer id="C">A connection between the tower base and a cold water pipe</answer>
+        <answer id="D">Separate eight-foot ground rods for each tower leg, bonded to the tower and each other</answer>
+      </question>
+      <question id="T0B09" correct="C">
+        <text>Why should you avoid attaching an antenna to a utility pole?</text>
+        <answer id="A">The antenna will not work properly because of induced voltages</answer>
+        <answer id="B">The 60 Hz radiations from the feed line may increase the SWR</answer>
+        <answer id="C">The antenna could contact high-voltage power lines</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0B10" correct="C">
+        <text>Which of the following is true when installing grounding conductors used for lightning protection?</text>
+        <answer id="A">Use only non-insulated wire</answer>
+        <answer id="B">Wires must be carefully routed with precise right-angle bends</answer>
+        <answer id="C">Sharp bends must be avoided</answer>
+        <answer id="D">Common grounds must be avoided</answer>
+      </question>
+      <question id="T0B11" correct="B">
+        <text>Which of the following establishes grounding requirements for an amateur radio tower or antenna?</text>
+        <answer id="A">FCC Part 97 rules</answer>
+        <answer id="B">Local electrical codes</answer>
+        <answer id="C">FAA tower lighting regulations</answer>
+        <answer id="D">UL recommended practices</answer>
+      </question>
+    </group>
+    <group id="T0C">
+      <description>T0C - RF hazards: radiation exposure, proximity to antennas, recognized safe power levels, radiation types, duty cycle</description>
+      <question id="T0C01" correct="D">
+        <text>What type of radiation are radio signals?</text>
+        <answer id="A">Gamma radiation</answer>
+        <answer id="B">Ionizing radiation</answer>
+        <answer id="C">Alpha radiation</answer>
+        <answer id="D">Non-ionizing radiation</answer>
+      </question>
+      <question id="T0C02" correct="B">
+        <text>At which of the following frequencies does maximum permissible exposure have the lowest value?</text>
+        <answer id="A">3.5 MHz</answer>
+        <answer id="B">50 MHz</answer>
+        <answer id="C">440 MHz</answer>
+        <answer id="D">1296 MHz</answer>
+      </question>
+      <question id="T0C03" correct="C">
+        <text>How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?</text>
+        <answer id="A">It increases by a factor of 3</answer>
+        <answer id="B">It decreases by 50 percent</answer>
+        <answer id="C">It increases by a factor of 2</answer>
+        <answer id="D">There is no adjustment allowed for lower duty cycle</answer>
+      </question>
+      <question id="T0C04" correct="D">
+        <text>What factors affect the RF exposure of people near an amateur station antenna?</text>
+        <answer id="A">Frequency and power level of the RF field</answer>
+        <answer id="B">Distance from the antenna to a person</answer>
+        <answer id="C">Radiation pattern of the antenna</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0C05" correct="D">
+        <text>Why do exposure limits vary with frequency?</text>
+        <answer id="A">Lower frequency RF fields have more energy than higher frequency fields</answer>
+        <answer id="B">Lower frequency RF fields do not penetrate the human body</answer>
+        <answer id="C">Higher frequency RF fields are transient in nature</answer>
+        <answer id="D">The human body absorbs more RF energy at some frequencies than at others</answer>
+      </question>
+      <question id="T0C06" correct="D">
+        <text>Which of the following is an acceptable method to determine whether your station complies with FCC RF exposure regulations?</text>
+        <answer id="A">By calculation based on FCC OET Bulletin 65</answer>
+        <answer id="B">By calculation based on computer modeling</answer>
+        <answer id="C">By measurement of field strength using calibrated equipment</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0C07" correct="B">
+        <text>What hazard is created by touching an antenna during a transmission?</text>
+        <answer id="A">Electrocution</answer>
+        <answer id="B">RF burn to skin</answer>
+        <answer id="C">Radiation poisoning</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0C08" correct="A">
+        <text>Which of the following actions can reduce exposure to RF radiation?</text>
+        <answer id="A">Relocate antennas</answer>
+        <answer id="B">Relocate the transmitter</answer>
+        <answer id="C">Increase the duty cycle</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0C09" correct="B">
+        <text>How can you make sure your station stays in compliance with RF safety regulations?</text>
+        <answer id="A">By informing the FCC of any changes made in your station</answer>
+        <answer id="B">By re-evaluating the station whenever an item in the transmitter or antenna system is changed</answer>
+        <answer id="C">By making sure your antennas have low SWR</answer>
+        <answer id="D" last="true">All these choices are correct</answer>
+      </question>
+      <question id="T0C10" correct="A">
+        <text>Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?</text>
+        <answer id="A">It affects the average exposure to radiation</answer>
+        <answer id="B">It affects the peak exposure to radiation</answer>
+        <answer id="C">It takes into account the antenna feed line loss</answer>
+        <answer id="D">It takes into account the thermal effects of the final amplifier</answer>
+      </question>
+      <question id="T0C11" correct="C">
+        <text>What is the definition of duty cycle during the averaging time for RF exposure?</text>
+        <answer id="A">The difference between the lowest power output and the highest power output of a transmitter</answer>
+        <answer id="B">The difference between the PEP and average power output of a transmitter</answer>
+        <answer id="C">The percentage of time that a transmitter is transmitting</answer>
+        <answer id="D">The percentage of time that a transmitter is not transmitting</answer>
+      </question>
+      <question id="T0C12" correct="A">
+        <text>How does RF radiation differ from ionizing radiation (radioactivity)?</text>
+        <answer id="A">RF radiation does not have sufficient energy to cause chemical changes in cells and damage DNA</answer>
+        <answer id="B">RF radiation can only be detected with an RF dosimeter</answer>
+        <answer id="C">RF radiation is limited in range to a few feet</answer>
+        <answer id="D">RF radiation is perfectly safe</answer>
+      </question>
+      <question id="T0C13" correct="B">
+        <text>Who is responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits?</text>
+        <answer id="A">The FCC</answer>
+        <answer id="B">The station licensee</answer>
+        <answer id="C">Anyone who is near an antenna</answer>
+        <answer id="D">The local zoning board</answer>
+      </question>
+    </group>
+  </subelement>
+</doc>
+<!-- vi:set ts=2 sw=2 ai et: -->
+
