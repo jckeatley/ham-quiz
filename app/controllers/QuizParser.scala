@@ -1,13 +1,16 @@
 package controllers
 
 import scala.xml.*
+import java.time.LocalDate
 
-import models.{Answer, Group, Question}
+import models.{Answer, Group, Question, Quiz}
 
 object QuizParser {
-  private def parseQuiz(is: InputSource): Seq[Group] = {
+  private def parseQuiz(is: InputSource): Quiz = {
     val root: Elem = XML.load(is)
-    for {
+    val title = (root \ "title").head.text
+    val effDate = LocalDate.parse((root \ "effectiveDate").head.text)
+    val groups = for {
       subElement <- root \ "subelement"
       group <- subElement \ "group"
       groupId = (group \ "@id").text
@@ -36,10 +39,11 @@ object QuizParser {
       }
       Group(groupId, questions.toList)
     }
+    Quiz(title, effDate, groups)
   }
 
-  def loadQuiz(): Seq[Group] = {
-    val inputSource = new InputSource(getClass.getClassLoader.getResourceAsStream("public/amateur_extra.xml"))
+  def loadQuiz(path: String): Quiz = {
+    val inputSource = new InputSource(getClass.getClassLoader.getResourceAsStream(path))
     parseQuiz(inputSource)
   }
 }

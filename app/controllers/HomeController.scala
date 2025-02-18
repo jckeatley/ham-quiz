@@ -40,8 +40,15 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     Ok(views.html.index())
   }
 
-  def startQuiz: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
-    val groups = QuizParser.loadQuiz()
+  def startTechQuiz: Action[AnyContent] = startQuiz("public/technician.xml")
+
+  def startGeneralQuiz: Action[AnyContent] = startQuiz("public/general.xml")
+
+  def startExtraQuiz: Action[AnyContent] = startQuiz("public/amateur_extra.xml")
+
+  def startQuiz(path: String): Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
+    val quiz = QuizParser.loadQuiz(path)
+    val groups = quiz.groups
     questions = groups.map(generateQuestion).toList
     total = questions.length
     current = 1

@@ -5,7 +5,9 @@
 
 # An example controller showing a sample home page
 GET     /                           controllers.HomeController.index
-GET     /start                      controllers.HomeController.startQuiz
+GET     /startTech                  controllers.HomeController.startTechQuiz
+GET     /startGen                   controllers.HomeController.startGeneralQuiz
+GET     /startExtra                 controllers.HomeController.startExtraQuiz
 GET     /continue                   controllers.HomeController.continue
 POST    /question                   controllers.HomeController.scoreQuestion
 GET     /quit                       controllers.HomeController.quit
