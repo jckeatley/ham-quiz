@@ -118,12 +118,13 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     }
   }
 
-  @tailrec private def randomizeAnswers(answers: List[Answer], accum: List[Answer] = Nil): List[Answer] = {
-    if (answers == Nil) {
+  @tailrec
+  private def randomizeList[T](items: List[T], accum: List[T] = Nil): List[T] = {
+    if (items == Nil) {
       accum
     } else {
-      val (item, rest) = selectRandomFromList(answers)
-      randomizeAnswers(rest, item :: accum)
+      val (item, rest) = selectRandomFromList(items)
+      randomizeList(rest, item :: accum)
     }
   }
 
@@ -132,7 +133,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     val question = activeQuestions(random.nextInt(activeQuestions.length))
     val keys = question.answers.map(a => a.id)
     val (answers, last) = question.answers.partition(a => !a.last)
-    val randAnswers = randomizeAnswers(answers) ++ last
+    val randAnswers = randomizeList(answers) ++ last
     var newCorrect = ""
     val newAnswers = for {
       (key, answer) <- keys.zip(randAnswers)
