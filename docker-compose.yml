@@ -1,8 +1,8 @@
 ---
 services:
-  extra-exam:
-    image: extra-exam:1.0.2
-    container_name: extra_exam
+  ham-quiz:
+    image: ham-quiz:1.0.5
+    container_name: ham_quiz
     environment:
       - TZ=America/Chicago
     ports:

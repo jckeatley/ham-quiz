@@ -1,6 +1,6 @@
 import com.typesafe.sbt.packager.docker._
 
-name := """extra-exam"""
+name := """ham-quiz"""
 organization := "us.keatley"
 
 version := "1.0.5"
@@ -13,7 +13,7 @@ libraryDependencies += guice
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
 
 Docker / maintainer := "jckeatley@gmail.com"
-Docker / packageName := "extra-exam"
+Docker / packageName := "ham-quiz"
 Docker / version := version.value
 Docker / daemonUserUid := None
 Docker / daemonUser := "daemon"
