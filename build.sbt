@@ -34,7 +34,7 @@ lazy val server = project
       "com.vmunier" %% "scalajs-scripts" % "1.3.0",
       "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % Test
     ),
-    Docker / maintainer := "jckeatley@gmail.com",
+    maintainer := "jckeatley@gmail.com",
     Docker / packageName := "ham-quiz",
     Docker / version := version.value,
     Docker / daemonUserUid := None,

@@ -5,7 +5,7 @@ import java.time.LocalDate
 
 import models.{Answer, Group, Question, Quiz}
 
-object QuizParser {
+object QuizParser:
   private def parseQuiz(is: InputSource): Quiz =
     val root: Elem = XML.load(is)
     val title = (root \ "title").head.text
@@ -46,4 +46,5 @@ object QuizParser {
   def loadQuiz(path: String): Quiz =
     val inputSource = new InputSource(getClass.getClassLoader.getResourceAsStream(path))
     parseQuiz(inputSource)
-}
+
+end QuizParser
