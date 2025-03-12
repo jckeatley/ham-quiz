@@ -1,7 +1,7 @@
 ---
 services:
   ham-quiz:
-    image: ham-quiz:1.0.5
+    image: ham-quiz:1.0.6
     container_name: ham_quiz
     environment:
       - TZ=America/Chicago

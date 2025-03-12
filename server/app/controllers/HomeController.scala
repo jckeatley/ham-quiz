@@ -20,7 +20,7 @@ import views.html
  */
 @Singleton
 class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: ControllerComponents)
-  extends AbstractController(cc) {
+  extends AbstractController(cc):
   private val random = new Random()
   private var startTime: Instant = uninitialized
   private var stopTime: Instant = uninitialized
@@ -46,7 +46,7 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
 
   def startExtraQuiz: Action[AnyContent] = startQuiz("public/amateur_extra.xml")
 
-  def startQuiz(path: String): Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
+  private def startQuiz(path: String): Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     val quiz = QuizParser.loadQuiz(path)
     val groups = quiz.groups
     questions = groups.map(generateQuestion).toList
@@ -60,15 +60,15 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
   def continue: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
     questions = questions.tail
     current += 1
-    if (questions.isEmpty) {
+    if (questions.isEmpty)
       val score = 100 * correct.toDouble / total
       stopTime = Instant.now()
       val et = Duration.between(startTime, stopTime)
       val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
       Ok(views.html.score(total, correct, score, elapsedTime))
-    } else {
+    else
       Ok(views.html.question(questions.head, form, current, total))
-    }
+    end if
   }
 
   def quit: Action[AnyContent] = messagesAction { implicit request: MessagesRequest[AnyContent] =>
@@ -81,68 +81,60 @@ class HomeController @Inject()(messagesAction: MessagesActionBuilder, cc: Contro
     }
 
     val successFunction = { (data: Data) =>
-      if (data.answerId == questions.head.correctAnswer) {
+      if (data.answerId == questions.head.correctAnswer)
         // Answer is correct -- iterate to next:
         correct += 1
         current += 1
         questions = questions.tail
 
-        if (questions.isEmpty) {
+        if (questions.isEmpty)
           val score = 100 * correct.toDouble / total
           stopTime = Instant.now()
           val et = Duration.between(startTime, stopTime)
           val elapsedTime = f"${et.toHoursPart}%d:${et.toMinutesPart}%02d:${et.toSecondsPart}%02d"
           Ok(html.score(total, correct, score, elapsedTime))
-        } else {
+        else
           Ok(views.html.question(questions.head, form, current, total))
-        }
-      } else {
+      else
         // Answer is wrong -- reshow question with answer:
         Ok(views.html.explanation(questions.head, form, current, total, data.answerId))
-      }
     }
 
     val formValidationResult = form.bindFromRequest()
     formValidationResult.fold(errorFunction, successFunction)
   }
 
-  private def selectRandomFromList[T](items: List[T]): (T, List[T]) = {
-    if (items.isEmpty) {
+  private def selectRandomFromList[T](items: List[T]): (T, List[T]) =
+    if (items.isEmpty)
       throw new IllegalStateException("Items list is empty.")
-    }
-    if (items.length > 1) {
+    if (items.length > 1)
       val n = random.nextInt(items.length)
       (items(n), items.take(n) ++ items.drop(n + 1))
-    } else {
+    else
       (items.head, Nil)
-    }
-  }
 
   @tailrec
-  private def randomizeList[T](items: List[T], accum: List[T] = Nil): List[T] = {
-    if (items == Nil) {
+  private def randomizeList[T](items: List[T], accum: List[T] = Nil): List[T] =
+    if (items == Nil)
       accum
-    } else {
+    else
       val (item, rest) = selectRandomFromList(items)
       randomizeList(rest, item :: accum)
-    }
-  }
 
-  private def generateQuestion(group: Group): Question = {
+  private def generateQuestion(group: Group): Question =
     val activeQuestions = group.questions.filter(q => !q.disabled)
     val question = activeQuestions(random.nextInt(activeQuestions.length))
     val keys = question.answers.map(a => a.id)
     val (answers, last) = question.answers.partition(a => !a.last)
     val randAnswers = randomizeList(answers) ++ last
     var newCorrect = ""
-    val newAnswers = for {
-      (key, answer) <- keys.zip(randAnswers)
-    } yield {
-      if (answer.id == question.correctAnswer) {
-        newCorrect = key
-      }
-      answer.copy(id = key)
-    }
+    val newAnswers =
+      for
+        (key, answer) <- keys.zip(randAnswers)
+      yield
+        if (answer.id == question.correctAnswer)
+          newCorrect = key
+        answer.copy(id = key)
     question.copy(answers = newAnswers, correctAnswer = newCorrect)
-  }
-}
+
+end HomeController
